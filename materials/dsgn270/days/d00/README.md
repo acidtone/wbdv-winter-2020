@@ -69,7 +69,7 @@ In order of preference:
 Find a *modern*, free website template of your choice and:
 1. download it,
 2. open the index page in your browser (or better, view it using VS Code Live Server),
-3. submit a link to the original template as an [Issue in the program repo](https://github.com/acidtone/wbdv-winter-2020/issues)
+3. submit a link to the original template as a [reply to this Issue in the program repo](https://github.com/acidtone/wbdv-winter-2020/issues/1)
 
 ### Questions to ask:
 - What search terms did you use to find your template?
