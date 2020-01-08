@@ -68,7 +68,7 @@ In order of preference:
 ## Activity: Free website templates
 Find a *modern*, free website template of your choice and:
 1. download it,
-2. open the index page in your browser,
+2. open the index page in your browser (or better, view it using VS Code Live Server),
 3. submit a link to the original template as an [Issue in the program repo](https://github.com/acidtone/wbdv-winter-2020/issues)
 
 ### Questions to ask:
