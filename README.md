@@ -5,7 +5,7 @@
 - Parking
 - Puppies
 ### DSGN 270: Jan 8-13
-- [Day 0](d00/README.md): Setup, Intros, Code as a Career
+- [Day 0](dsgn270/days/d00/README.md): Setup, Intros, Code as a Career
 - Day 1: Interaction Design
 - Day 2: Responsive Design
 - Day 3: Workflows
