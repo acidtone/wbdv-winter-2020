@@ -84,6 +84,8 @@ Find a *modern*, free website template of your choice and:
 - Video: [UX Design Basics: Mental Models](https://www.youtube.com/watch?v=9gM8K4ooavY) by Jamal Nichols
 - Video: [Screen Reader Demo](https://www.youtube.com/watch?v=2PMuBQ7LyOw)
 - Article: [The 5 pillars of visual hierarchy in Web design](https://thenextweb.com/dd/2015/04/30/the-5-pillars-of-visual-hierarchy-in-web-design/)
+- Textbook: Don't Make Me Think
+  - Skim Chapters 1-5
 
 ## Prep for Next Week
 - Video: [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE)
