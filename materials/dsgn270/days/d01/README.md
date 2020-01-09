@@ -78,10 +78,10 @@ What are some types of disabilities that may affect how someone uses a website?
     - ADHD
 
 ### WGAC 2.0 Four Principles
-1. *Perceivable*: Information and user interface components must be presentable to users in ways they can perceive.
-2. *Operable*: User interface components and navigation must be operable.
-3. *Understandable*: Information and the operation of user interface must be understandable.
-4. *Robust*: Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.
+1. _Perceivable_: Information and user interface components must be presentable to users in ways they can perceive.
+2. _Operable_: User interface components and navigation must be operable.
+3. _Understandable_: Information and the operation of user interface must be understandable.
+4. _Robust_: Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.
 
 ### Assistive Technologies
 - Screen reader
