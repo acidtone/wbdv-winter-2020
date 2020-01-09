@@ -33,12 +33,12 @@ VitalSource Bookshelf is the software that displays your E-Text. Installation re
 2. We don't make optimal choices. We satisfice.
 3. We don't figure out how things work. We muddle through.
 
-### Making pages scannable
-#### Take Advantage of Web Conventions (i.e. Mental Models)
+### Take Advantage of Web Conventions (i.e. Mental Models)
 - Where things are located on a page.
 - How things work. Example: the shopping cart metaphor.
 - How things look. Example: errors are red and like buttons are blue.
 
+### Making Pages Scannable
 #### Create Visual Hierarchies
 - Prominence -> importance
 - Logically related -> visually related
