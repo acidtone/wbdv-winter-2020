@@ -13,8 +13,3 @@
 - Tool: [Colour Contrast Checker](https://contrast-ratio.com/)
 - Chrome Extension: [Alt Text Tester](https://chrome.google.com/webstore/detail/alt-text-tester/koldhcllpbdfcdpfpbldbicbgddglodk)
 - Video: [Screen Reader Demo](https://www.youtube.com/watch?v=2PMuBQ7LyOw)
-
-## Responsive Design
-- Article: [Designing Card-Based User Interfaces](https://www.smashingmagazine.com/2016/10/designing-card-based-user-interfaces/)
-- Article: [The Thumb Zone: Designing For Mobile Users](https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/)
-- Examples: [Responsive Patterns](https://bradfrost.github.io/this-is-responsive/patterns.html)
