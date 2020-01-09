@@ -16,13 +16,13 @@ VitalSource Bookshelf is the software that displays your E-Text. Installation re
 ## User Experience (UX)
 ### Mental Models
 - [Definition](https://youtu.be/9gM8K4ooavY?t=241)
-  - Key Principle: A mental model is how you think something will work, based on your learning and experience.
+    - Key Principle: A mental model is how you think something will work, based on your learning and experience.
 - Facts: 
-   - We're always comparing our mental models with the real world.
-   - Mental models can evolve over time. Example: users now have no problem scrolling.
-   - When you've taken people into a new paradigm, you can then evolve that paradigm
+    - We're always comparing our mental models with the real world.
+    - Mental models can evolve over time. Example: users now have no problem scrolling.
+    - When you've taken people into a new paradigm, you can then evolve that paradigm
 - A designer fills the gap between System Models and Interaction Models
-   - "If you're creating something unfamiliar, base it in the familiar first"
+    - "If you're creating something unfamiliar, base it in the familiar first"
 - Key Takeaway: If a mental model closely matches the actual behaviour of the device or interface, then people can:
     1. make accurate predictions,
     2. make correct decisions, and
@@ -66,21 +66,22 @@ what works well and what doesn't work well.
     - Are they effectively creating visual hierarchy? Why/why not?
 
 ## Accessibility
-What are some types of disabilities that may a!ect how someone uses a website?
-  - sight: blind or low vision
-  - hearing: deaf or hard of hearing (caption on videos) 
-  - mobility: unable to use mouse, only uses keyboard, uses voice commands
-  - cognitive disabilities: 
-      - brain injury/disease
-      - dyslexia
-      - memory
-      - ADHD
+
+What are some types of disabilities that may affect how someone uses a website?
+- sight: blind or low vision
+- hearing: deaf or hard of hearing (caption on videos) 
+- mobility: unable to use mouse, only uses keyboard, uses voice commands
+- cognitive disabilities: 
+    - brain injury/disease
+    - dyslexia
+    - memory
+    - ADHD
 
 ### WGAC 2.0 Four Principles
-1. Perceivable: Information and user interface components must be presentable to users in ways they can perceive.
-2. Operable: User interface components and navigation must be operable.
-3. Understandable: Information and the operation of user interface must be understandable.
-4. Robust: Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.
+1. *Perceivable*: Information and user interface components must be presentable to users in ways they can perceive.
+2. *Operable*: User interface components and navigation must be operable.
+3. *Understandable*: Information and the operation of user interface must be understandable.
+4. *Robust*: Content must be robust enough that it can be interpreted reliably by a wide variety of user agents, including assistive technologies.
 
 ### Assistive Technologies
 - Screen reader
@@ -93,16 +94,13 @@ What are some types of disabilities that may a!ect how someone uses a website?
     - Single switch entry device
 
 ### Keys to basic accessibility
-1. Appropriate image alt text usage
+1. Appropriate image `alt` text usage
     - if you want a screen reader to read it, use text that describes what's in the image, not just an image title
     - if not (such as for an icon), leave alt attribute blank or use a CSS image instead
 2. Replace `div` tags with semantic markup such as `nav`, `header`, `main`, `section`, `article`, `aside`, `footer`, etc
-3. Use descriptive link text
-4. Create high text colour contrast
-5. Make text quickly scannable (i.e. for ADHD, memory disabilities)
-  - Break up long passages with headings
-  - Use bullet points and numbered lists
-  - Omit needless words 
+3. Use descriptive link text. Example: "click here" is NOT descriptive.
+4. Create high colour contrast text.
+5. Make text quickly scannable (i.e. for ADHD, memory disabilities). See the above UX section for details on how to do this.
 6. Forms:
     - Use `fieldset` and `legend` tags to provide the purpose and directions for filling out a form
     - `label` your `input` fields
@@ -115,8 +113,19 @@ Designing a website for accessibility comes with some easy wins
 - Making content brief and scannable lends itself to card-based design patterns (more on this tomorrow when we talk about responsive design)
 - Accessible websites often carry advantages over to all users. Example: Step-by-step Google Map directions started as an accessibility project.
 
+## Activity: Accessibility
+See the [DSGN 270 Resource page](../../README.md) for links to the spec and tools.
+- Visit a few different websites (or your selected HTML template from yesterday).
+- How accessible is the website? You will have to view the source or inspect the pages to find out.
+- Try using an accessbility checker (either online or as a browser extension) to automate this process.
+
+### Questions to ask:
+- What is the contrast of the text?
+- Are the images using `alt` attributes properly?
+- Is the site using semantic tags? If not, are there any `role` attributes used?
+- Are the forms constructed in am accessible manner?
+
 ## Prep for Tomorrow
 - Video: [Pasteup -> Grid](https://youtu.be/E005mjqpZ9Y)
 - Article: [Designing Card-Based User Interfaces](https://www.smashingmagazine.com/2016/10/designing-card-based-user-interfaces/)
 - Article: [The Thumb Zone: Designing For Mobile Users](https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/)
-- 

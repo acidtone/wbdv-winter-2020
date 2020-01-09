@@ -1,5 +1,4 @@
 # Resources
-
 ## Usability
 - Attribution: [Jamal Nichols](https://www.youtube.com/channel/UCAoua8S8h1e4OkaafTEklMQ)
 - Tool: [Usability Checklist](https://teamsuccess.io/UX)
