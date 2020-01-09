@@ -18,11 +18,11 @@ VitalSource Bookshelf is the software that displays your E-Text. Installation re
 - [Definition](https://youtu.be/9gM8K4ooavY?t=241)
   - Key Principle: A mental model is how you think something will work, based on your learning and experience.
 - Facts: 
- - We're always comparing our mental models with the real world.
- - Mental models can evolve over time. Example: users now have no problem scrolling.
- - When you've taken people into a new paradigm, you can then evolve that paradigm
+   - We're always comparing our mental models with the real world.
+   - Mental models can evolve over time. Example: users now have no problem scrolling.
+   - When you've taken people into a new paradigm, you can then evolve that paradigm
 - A designer fills the gap between System Models and Interaction Models
-  - "If you're creating something unfamiliar, base it in the familiar first"
+   - "If you're creating something unfamiliar, base it in the familiar first"
 - Key Takeaway: If a mental model closely matches the actual behaviour of the device or interface, then people can:
     1. make accurate predictions,
     2. make correct decisions, and
@@ -49,9 +49,9 @@ VitalSource Bookshelf is the software that displays your E-Text. Installation re
 - How do they approach solving that problem?
 - Look at different parts of the site and look at
 what works well and what doesn't work well.
-  - What conventions do you see?
-  - Are there any violations in convention?
-  - Are they effectively creating visual hierarchy? Why/why not?
+    - What conventions do you see?
+    - Are there any violations in convention?
+    - Are they effectively creating visual hierarchy? Why/why not?
 
 ## Accessibility
 What are some types of disabilities that may a!ect how someone uses a website?
@@ -59,10 +59,10 @@ What are some types of disabilities that may a!ect how someone uses a website?
   - hearing: deaf or hard of hearing (caption on videos) 
   - mobility: unable to use mouse, only uses keyboard, uses voice commands
   - cognitive disabilities: 
-    - brain injury/disease
-    - dyslexia
-    - memory
-    - ADHD
+      - brain injury/disease
+      - dyslexia
+      - memory
+      - ADHD
 
 ### WGAC 2.0 Four Principles
 1. Perceivable: Information and user interface components must be presentable to users in ways they can perceive.
@@ -76,14 +76,14 @@ What are some types of disabilities that may a!ect how someone uses a website?
 - Text reader
 - Speech input software
 - Alternative input devices
-  - Head pointer
-  - Motion tracking/eye tracking
-  - Single switch entry device
+    - Head pointer
+    - Motion tracking/eye tracking
+    - Single switch entry device
 
 ### Keys to basic accessibility
 1. Appropriate image alt text usage
-  - if you want a screen reader to read it, use text that describes what's in the image, not just an image title
-  - if not (such as for an icon), leave alt attribute blank or use a CSS image instead
+    - if you want a screen reader to read it, use text that describes what's in the image, not just an image title
+    - if not (such as for an icon), leave alt attribute blank or use a CSS image instead
 2. Replace `div` tags with semantic markup such as `nav`, `header`, `main`, `section`, `article`, `aside`, `footer`, etc
 3. Use descriptive link text
 4. Create high text colour contrast
@@ -92,10 +92,10 @@ What are some types of disabilities that may a!ect how someone uses a website?
   - Use bullet points and numbered lists
   - Omit needless words 
 6. Forms:
-  - Use `fieldset` and `legend` tags to provide the purpose and directions for filling out a form
-  - `label` your `input` fields
-  - Be careful when altering `:focus` behaviour
-  - Make sure keyboard entry is preserved when submitting a form via javascript
+    - Use `fieldset` and `legend` tags to provide the purpose and directions for filling out a form
+    - `label` your `input` fields
+    - Be careful when altering `:focus` behaviour
+    - Make sure keyboard entry is preserved when submitting a form via javascript
 
 ### Accessibility Bonuses 
 Designing a website for accessibility comes with some easy wins
