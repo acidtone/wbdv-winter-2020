@@ -28,20 +28,32 @@ VitalSource Bookshelf is the software that displays your E-Text. Installation re
     2. make correct decisions, and
     3. choose appropriate actions.
 
-### Web Conventions
-- Where things are located on a page.
-- How things work. Example: the shopping cart metaphor.
-- How things look. Example: errors are red and like buttons are blue.
-
-### Visual Hierarchy
-- Prominence -> importance
-- Logically related -> visually related
-- Nesting -> parent/child relationships
-
 ### Steve Shrug's Facts of Life
 1. We don't read pages. We scan them.
 2. We don't make optimal choices. We satisfice.
 3. We don't figure out how things work. We muddle through.
+
+### Making pages scannable
+#### Take Advantage of Web Conventions (i.e. Mental Models)
+- Where things are located on a page.
+- How things work. Example: the shopping cart metaphor.
+- How things look. Example: errors are red and like buttons are blue.
+
+#### Create Visual Hierarchies
+- Prominence -> importance
+- Logically related -> visually related
+- Nesting -> parent/child relationships
+
+#### Design Content for Cards
+- Break pages up into clearly defined areas
+- Use plenty of headings
+- Keep paragraphs short
+- Use bullet points and numbered lists
+
+#### Extras
+- Make it obvious what's clickable
+- Highlight key terms
+- Keep text readable by increasing contrast with their background
 
 ## Activity: Design and Usability
 - Visit a few different websites.
