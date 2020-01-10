@@ -7,7 +7,7 @@
 ### DSGN 270: Jan 8-13
 - [Day 0: Setup, Intros, Code as a Career](materials/dsgn270/days/d00/README.md)
 - [Day 1: Interaction Design](materials/dsgn270/days/d01/README.md)
-- Day 2: Responsive Design
+- [Day 2: Responsive Design](materials/dsgn270/days/d02/README.md)
 - Day 3: Workflows
 ### CPNT 260: Jan 14-27
 - Day 0
