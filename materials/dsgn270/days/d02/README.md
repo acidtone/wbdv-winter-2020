@@ -1,4 +1,7 @@
 # DSGN 270: Day 2
+## Assignment 1: Due Wednesday at 5pm
+See the [Assignment 1 Readme](../../assignments/assignment-1/README.md) for details.
+
 ## Responsive Design Basics
 - adaptive vs responsive
 - what are the device differences?
@@ -116,3 +119,13 @@ what works well and what doesn't work well.
   - Does the site ask for any permissions such as notifications or location? When are these prompts displayed?
   - Is there content parity (the same content on both sites) across mobile and desktop? If not, is there an option to view the 'Full Site'?
 - Can you find any examples of Progressive Web Apps?
+
+## Prep for Monday
+- [Markdown: Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+- Article: [Web design workflow: What to expect when starting a website project](https://blog.tbhcreative.com/2015/12/what-to-expect-website-design-workflow.html)
+- [Storyboarding For People Who Can't Draw](https://youtu.be/ux_Em1lVsjI)
+- Article: [Agile philosophy: A summary](https://development.robinwinslow.uk/2014/01/10/agile-philosophy/)
+- Video: [AARRR](https://www.youtube.com/watch?v=CcDpxG_Wz-k)
+- Video: [Design Sprint Introduction](https://youtu.be/Z8MOwcqZuuU)
+- Article: [Lean Methodology](http://theleanstartup.com/principles)
+  - Video: [Lean Canvas](https://youtu.be/7o8uYdUaFR4)
