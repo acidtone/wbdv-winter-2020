@@ -121,9 +121,9 @@ what works well and what doesn't work well.
 - Can you find any examples of Progressive Web Apps?
 
 ## Prep for Monday
-- [Markdown: Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+- Cheatsheet: [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 - Article: [Web design workflow: What to expect when starting a website project](https://blog.tbhcreative.com/2015/12/what-to-expect-website-design-workflow.html)
-- [Storyboarding For People Who Can't Draw](https://youtu.be/ux_Em1lVsjI)
+- Video: [Storyboarding For People Who Can't Draw](https://youtu.be/ux_Em1lVsjI)
 - Article: [Agile philosophy: A summary](https://development.robinwinslow.uk/2014/01/10/agile-philosophy/)
 - Video: [AARRR](https://www.youtube.com/watch?v=CcDpxG_Wz-k)
 - Video: [Design Sprint Introduction](https://youtu.be/Z8MOwcqZuuU)
