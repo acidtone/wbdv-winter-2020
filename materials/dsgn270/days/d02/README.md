@@ -1,5 +1,5 @@
 # DSGN 270: Day 2
-## Assignment 1: Due Wednesday at 5pm
+## Assignment 1: Due Wednesday at 8pm
 See the [Assignment 1 Readme](../../assignments/assignment-1/README.md) for details.
 
 ## Responsive Design Basics
