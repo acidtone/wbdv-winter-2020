@@ -68,10 +68,56 @@ The current industry-standard wireframe and mockup software package is Sketch (w
 
 Using your razor-sharp search skills, find the top three free-ish Sketch alternatives. Find system requirements, reviews and comparison articles to decide which you'll install and play around with (all of them?).
 
-## agile
-A professional alternative to waterfall. It comes in many flavours but here are three we'll talk about:
-- Scrum
-- Kanban
+### Top Alternatives
+- [Figma](https://www.figma.com/)
+- [Adobe XD](https://www.adobe.com/ca/products/xd.html)
+- [Framer X](https://www.framer.com/)
+
+## [agile](https://en.wikipedia.org/wiki/Agile_software_development)
+A professional alternative to waterfall development workflows. 
+
+### Core Principles
+- **Individuals and Interactions** over processes and tools
+- **Working Software over** comprehensive documentation
+- **Customer Collaboration** over contract negotiation
+- **Responding to Change** over following a plan
+
+Agile comes in many flavours but here are three we'll talk about:
+- [Scrum](https://www.scrum.org/)
+  - Core Principles
+    - Transparency
+    - Inspection
+    - Adaptation
+  - In practice
+    - Cycles are sprints
+    - Standup meetings
+    - Product Ownership
+- [Kanban](https://en.wikipedia.org/wiki/Kanban)
+  - Core Principles
+    - Understanding
+    - Agreement
+    - Respect
+    - Leadership
+    - Flow
+    - Customer Focus
+    - Transparency
+    - Balance
+    - Collaboration
+  - In practice:
+    - Each process issues requests (kanban) to its suppliers when it consumes its supplies.
+    - Each process produces according to the quantity and sequence of incoming requests.
+    - No items are made or transported without a request.
+    - The request associated with an item is always attached to it.
+    - Processes must not send out defective items, to ensure that the finished products will be defect-free.
+    - Limiting the number of pending requests makes the process more sensitive and reveals inefficiencies.
 - Lean
+  - Core Principles
+    - Define
+    - Learn
+    - Experiment
+  - In practice:
+    - Document your Plan A
+    - Identify the riskiest parts of your plan
+    - Systematically test your plan
 
 ## Prep for Tomorrow
