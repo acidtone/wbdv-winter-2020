@@ -121,3 +121,6 @@ Agile comes in many flavours but here are three we'll talk about:
     - Systematically test your plan
 
 ## Prep for Tomorrow
+- Article: [Git: forking vs cloning](http://bryanpendleton.blogspot.com/2014/07/git-clone-vs-fork.html)
+- Article: [The CSS Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
+- Video: [Reading Colour Hexcodes](https://www.youtube.com/watch?v=eqZqx6lRPe0)
