@@ -33,8 +33,16 @@ Install Git and Commandr onto your system if you already haven't. We'll need the
 The article [Web design workflow: What to expect when starting a website project](https://blog.tbhcreative.com/2015/12/what-to-expect-website-design-workflow.html) is one of maaaany that breakdown the steps in a waterfall development workflow:
 - First contact
 - Discovery
+  - Are we supporting IE?
+  - Do you have analytics?
 - Content design
+  - content inventory
+  - Information Architecture
+  - Site map
 - Wireframing
+  - Two methods:
+      1. full page wireframe
+      2. storyboard wireframe (wireframing only what's in the viewport)
 - Mockups
 - Prototyping
 - Development
