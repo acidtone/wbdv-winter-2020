@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+      display: flex;
+      font-size: 128px;
+    }
+
+    output {
+      margin: auto;
+    }
+
+  </style>
+</head>
+<body>
+  <output></output>
+  <script>
+    var output = document.querySelector('output');
+    // Source: https://codepen.io/KryptoniteDove/post/load-json-file-locally-using-pure-javascript
+    function loadJSON(callback) {   
+
+      var xobj = new XMLHttpRequest();
+      xobj.overrideMimeType("application/json");
+      xobj.open('GET', 'nouns.json', true); 
+      xobj.onreadystatechange = function () {
+            if (xobj.readyState == 4 && xobj.status == "200") {
+              // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
+              callback(xobj.responseText);
+            }
+        };
+        xobj.send(null);  
+    }
+    function getRandomInt(max) {
+      return Math.floor(Math.random() * Math.floor(max));
+    }
+
+    function randomPhrase(count, list) {
+      let phrase = '';
+      for (let i = 0; i<count; i++) {
+        phrase += list[getRandomInt(list.length)]+' ';
+      }
+      return phrase;
+    }
+
+    function init() {
+      loadJSON(function(response) {
+        // Parse JSON string into object
+        var nouns = JSON.parse(response);
+        output.value = randomPhrase(2, nouns);
+      });
+    }
+
+    init();
+
+  </script>
+</body>
+</html>
