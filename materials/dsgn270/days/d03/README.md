@@ -10,7 +10,7 @@
 - Article: [Lean Methodology](http://theleanstartup.com/principles)
   - Video: [Lean Canvas](https://youtu.be/7o8uYdUaFR4)
 
-## Tool Time: Git and Commandr
+## Tool Time: Git and Cmder
 Install Git and Commandr onto your system if you already haven't. We'll need these tomorrow.
 
 ## Search Tips Reviewed
