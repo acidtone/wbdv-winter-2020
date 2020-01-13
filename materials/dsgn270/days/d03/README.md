@@ -42,7 +42,7 @@ The article [Web design workflow: What to expect when starting a website project
 - Wireframing
   - Two methods:
       1. full page wireframe
-      2. storyboard wireframe (wireframing only what's in the viewport)
+      2. storyboard wireframe (wireframing only what's in the viewport). See [Designing for a Viewport](https://www.youtube.com/watch?v=QY3lTBZnJmE) for the inspiration behind this method.
 - Mockups
 - Prototyping
 - Development
