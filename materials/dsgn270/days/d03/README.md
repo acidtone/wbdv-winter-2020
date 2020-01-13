@@ -52,6 +52,9 @@ The article [Web design workflow: What to expect when starting a website project
 - Long-term support
 
 ### The 3 Elephants in the Room
+1. Budget
+2. Timeline
+3. Milestones
 
 ## Assignment 2: Homepage wireframes
 See the [Assignment 2 readme](../../assignments/assignment-2/README.md) for details.
