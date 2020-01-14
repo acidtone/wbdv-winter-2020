@@ -13,6 +13,10 @@
   - `$ cd /h/sait/fast-track`
   - `$ cd ../..`
 
+Quality of life cli tips
+- tab: auto-completes file names and directories
+- up arrow: browse through command history
+
 ## URIs, URLs, and file paths
 ### Naming conventions
 
