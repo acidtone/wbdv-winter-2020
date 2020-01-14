@@ -1,8 +1,5 @@
 # CPNT 260: Day 0
 
-## URIs, URLs, and file paths
-### Naming conventions
-
 ## Command Line: Navigating the file system
 [CLI (command line interface) Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
 
@@ -15,6 +12,9 @@
   - `$ cd Documents/fast-track`
   - `$ cd /h/sait/fast-track`
   - `$ cd ../..`
+
+## URIs, URLs, and file paths
+### Naming conventions
 
 ## Activity: [Configuring Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 - Setting your name
