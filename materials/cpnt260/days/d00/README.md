@@ -1,4 +1,4 @@
-# CPNT 260: Day 0
+# CPNT 260: Day 0.1
 
 ## Command Line: Navigating the file system
 [CLI (command line interface) Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
