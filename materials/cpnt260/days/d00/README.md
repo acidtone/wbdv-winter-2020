@@ -1,4 +1,4 @@
-# CPNT 260: Day 0
+# CPNT 260: Day 0.2
 
 ## Command Line: Navigating the file system
 [CLI (command line interface) Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
@@ -39,6 +39,13 @@ Quality of life cli tips
 
 ### Activity: Fork and clone the course repo to your system
 1. Clone repo to your filesystem
+
+### Top Git commands
+- `$ git status`
+- `$ git add`
+- `$ git commit`
+- `$ git push`
+- `$ git pull`
 
 ## Dobbie
 
