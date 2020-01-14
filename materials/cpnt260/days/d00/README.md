@@ -38,8 +38,7 @@ Quality of life cli tips
 2. Follow listed instructions for "*…or push an existing repository from the command line*"  
 
 ### Activity: Fork and clone the course repo to your system
-1. Fork the WBDV repo to your GH account
-2. Clone repo to your filesystem
+1. Clone repo to your filesystem
 
 ## Dobbie
 
