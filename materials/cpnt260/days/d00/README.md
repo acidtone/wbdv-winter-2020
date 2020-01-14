@@ -85,3 +85,8 @@ Overview of the four colour modes of CSS
 - hexcode
 - RBG
 - HSL
+
+## Prep for Tomorrow
+- Homework: Bring in a magazine or newspaper from the outside world.
+- [Resilient CSS: Part 1 of 7](https://youtu.be/u00FY9vADfQ)
+- [Resilient CSS: Part 2 of 7](https://youtu.be/WM_cKHH7bZ0)
