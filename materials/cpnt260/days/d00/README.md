@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # CPNT 260: Day 0.2
+=======
+# CPNT 260: Day 0.1
+>>>>>>> 0a18006c8f6762f1abcbc9d33fe74ef46547d0b9
 
 ## Command Line: Navigating the file system
 [CLI (command line interface) Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
