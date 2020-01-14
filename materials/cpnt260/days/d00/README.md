@@ -19,6 +19,15 @@ Quality of life cli tips
 
 ## URIs, URLs, and file paths
 ### Naming conventions
+- Files should be named consistently
+- File names should be short but descriptive (<25 characters)
+- Avoid special characters or spaces in a file name
+- Underscores or hyphens instead of spaces
+- Use lower case characters when possible
+- Default file name for html: index.html
+- Default file name for css: styles.css or main.css
+- Default file name for js: app.js or index.js
+- Default file name for documentation README (located in the root directory of a project; extension can vary but is usually .txt. or .md)
 
 ## Activity: [Configuring Git](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
 - Setting your name
