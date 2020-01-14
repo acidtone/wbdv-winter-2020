@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# CPNT 260: Day 0.2
-=======
-# CPNT 260: Day 0.1
->>>>>>> 0a18006c8f6762f1abcbc9d33fe74ef46547d0b9
+# CPNT 260: Day 0
 
 ## Command Line: Navigating the file system
 [CLI (command line interface) Cheat Sheet](https://www.git-tower.com/blog/command-line-cheat-sheet/)
@@ -40,6 +36,8 @@ Quality of life cli tips
 ### Option 2: Push from existing local repo
 1. Create empty GH repo WITHOUT initialized README.md
 2. Follow listed instructions for "*…or push an existing repository from the command line*"  
+
+**Important: Do not create a repo inside another repo**
 
 ### Activity: Fork and clone the course repo to your system
 1. Clone repo to your filesystem
