@@ -38,21 +38,28 @@ Source: [Stack Overflow](https://stackoverflow.com/questions/9189810/css-display
   - respect top & bottom margins and padding
   - respect height and width
 
+### Activity: inline-block Gallery
+Using what you've learned about the box model, build a content band that contains a gallery of 9 images:
+- content band spans the full width of the page, with a grey background
+- images are 300px wide/high, separated by 24px
+- gallery is 3 images wide
+- gallery is centered within the content band
+
 ## Semantic HTML
 Source: [Free Code Camp](https://guide.freecodecamp.org/html/html5-semantic-elements/)
-- `&lt;article&gt;`
-- `&lt;aside&gt;`
-- `&lt;details&gt;`
-- `&lt;figcaption&gt;`
-- `&lt;figure&gt;`
-- `&lt;footer&gt;`
-- `&lt;header&gt;`
-- `&lt;main&gt;`
-- `&lt;mark&gt;`
-- `&lt;nav&gt;`
-- `&lt;section&gt;`
-- `&lt;summary&gt;`
-- `&lt;time&gt;`
+- `<article>`
+- `<aside>`
+- `<details>`
+- `<figcaption>` 
+- `<figure>`
+- `<footer>`
+- `<header>`
+- `<main>`
+- `<mark>`
+- `<nav>`
+- `<section>`
+- `<summary>`
+- `<time>`
 
 ## CSS Colour
 Overview of positive and negative colour models.
