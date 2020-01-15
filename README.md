@@ -11,8 +11,8 @@
 - [Day 3: Workflows](materials/dsgn270/days/d03/README.md)
 ### CPNT 260: Jan 14-27
 - [Day 0: Git, Anatomy of a web page](materials/cpnt260/days/d00/README.md)
-- Day 1
-- Day 2
+- [Day 1: Validation, Box Model, Colour](materials/cpnt260/days/d01/README.md)
+- Day 2: Web Typography
 - Day 3
 - Day 4
 - Day 5
