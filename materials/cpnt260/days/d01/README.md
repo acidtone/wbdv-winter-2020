@@ -72,6 +72,12 @@ Overview of the four colour modes of CSS
 - RBG
 - HSL
 
+### Activity: Colour Combinations
+Find an article of popular two or three colour combinations, pick your favourite and:
+- Convert all hexcodes/RGB values to HSL.
+- Create a card containing coloured text with a coloured background based on your selection.
+- Calculate the contrast ratio for the colours you selected. Are they AA or AAA rated based on the WCAG?
+
 ## Images
 ### file formats 
 See [the complete list of browser supported formats](https://en.wikipedia.org/wiki/Comparison_of_web_browsers#Image_format_support).
@@ -103,3 +109,11 @@ See [the complete list of browser supported formats](https://en.wikipedia.org/wi
     - gradients
       - linear
       - radial
+
+## Prep for Tomorrow
+- Article: [On Web Typography](https://alistapart.com/article/on-web-typography/)
+- Article: [Font Fallbacks](https://css-tricks.com/css-basics-fallback-font-stacks-robust-web-typography/)
+- Article: [Typography for Developers](https://css-tricks.com/typography-for-developers/)
+- Article: [Fluid Typography](https://css-tricks.com/snippets/css/fluid-typography/)
+- Reference: [List of all official HTML entities](https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references)
+- Article: [Icon Fonts are Awesome](https://css-tricks.com/examples/IconFont/)
