@@ -71,8 +71,11 @@ Overview of the four colour modes of CSS
 - hexcode
 - RBG
 - HSL
+  - [HSL() / HSLa() is great for programmatic color control](https://css-tricks.com/hsl-hsla-is-great-for-programmatic-color-control/)
 
 ### Activity: Colour Combinations
+See [Coolerz.io](https://coolors.co/) for a colour combination generator.
+
 Find an article of popular two or three colour combinations, pick your favourite and:
 - Convert all hexcodes/RGB values to HSL.
 - Create a card containing coloured text with a coloured background based on your selection.

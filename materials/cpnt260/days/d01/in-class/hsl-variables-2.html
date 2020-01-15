@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>HSL Colour Using CSS Variables</title>
+  <style>
+    :root {
+      --light: 90%;
+      --dark: 10%;
+      --mid: 50%;
+    }
+
+    body {
+      display: flex;
+      height: 100vh;
+      margin: 0;
+      padding: 0;
+    }
+
+    div {
+      display: flex;
+      margin: auto;
+      width: 400px;
+      height: 400px;
+      color: hsl(358deg, 93%, 68%);
+      background-color: hsl(50deg, 95%, 74%);
+      border: 5px solid hsl(358deg, 93%, 35%);
+    }
+
+    p {
+      font-size: 72px;
+      margin: auto;
+    }
+
+
+
+  </style>
+</head>
+<body>
+  <div><p>Hello World!</p></div>
+</body>
+</html>

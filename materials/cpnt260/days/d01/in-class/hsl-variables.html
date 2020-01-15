@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>HSL Colour Using CSS Variables</title>
+  <style>
+    :root {
+      --light: 90%;
+      --dark: 10%;
+      --mid: 50%;
+    }
+
+    body {
+      display: block;
+      height: 100vh;
+      margin: 0;
+      padding: 0;
+    }
+
+    div {
+      display: flex;
+      margin: 25px auto;
+      width: 200px;
+      height: 200px;
+      border: 5px solid hsl(60deg,100%,50%);
+    }
+
+    p {
+      font-size: 36px;
+      margin: auto;
+    }
+
+    .yellow {
+      background-color: hsl(60deg,100%,var(--light));
+      color: hsl(60deg,100%,var(--dark));
+      border-color: hsl(60deg,100%,var(--mid));
+    }
+
+    .cyan {
+      background-color: hsl(180deg,100%,var(--light));
+      color: hsl(180deg,100%,var(--dark));
+      border-color: hsl(180deg,100%,var(--mid));
+    }
+
+    .magenta {
+      background-color: hsl(280deg,100%,var(--light));
+      color: hsl(280deg,100%,var(--dark));
+      border-color: hsl(280deg,100%,var(--mid));
+    }
+  </style>
+</head>
+<body>
+  <div class="yellow"><p>Hello World!</p></div>
+  <div class="cyan"><p>Hello World!</p></div>
+  <div class="magenta"><p>Hello World!</p></div>
+</body>
+</html>
