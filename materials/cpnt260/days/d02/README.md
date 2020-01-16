@@ -153,7 +153,7 @@ Search: [icon fonts](https://www.google.com/search?q=icon+fonts)
 ### SVG as image
 
 ## HTML Entities
-- Reference: [List of all official HTML entities](https://html.spec.whatwg.org/multipage/)
+- Reference: [List of all official HTML entities](https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references)
 
 ## Prep for Tomorrow
 - Video: [CSS Shapes](https://youtu.be/pOB75oTNhw0)
