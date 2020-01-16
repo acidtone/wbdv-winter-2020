@@ -34,13 +34,14 @@ See [the complete list of browser supported formats](https://en.wikipedia.org/wi
       - linear
       - radial
 
-## Activity: Hero Section
+## Activity: Hero image
 Using what you've learned about the box model and CSS images, create sample page with a hero image and heading. 
 
 The trademarks of a hero section:
 - Large banner image that is flush with the edges of the top, left and right sides of the window.
 - Image ends more than half way down the viewport. It will often take up the entire initial viewport.
 - A large heading or call to action (CTA) will sit on top of the background image. Make sure your text is high enough contrast.
+- Can include large blocks or colour and/or gradients. Con often not have an image and be based soley on colour.
 
 For the purposes of this exercise, ignore any primary navigation links. This will be covered when we tackle Flexbox.
 
@@ -124,6 +125,7 @@ Source: [Font stacks for Window & Mac browsers](https://coderwall.com/p/57imrw/c
 Write a class decoration for each of the system font stacks above.
 - name each class descriptively but briefly
 - assign the font stack using `font-family`
+- save these classes in a fonts.css sylesheet
 
 ### Font services
 Search: [Google Fonts vs Adobe Fonts](https://www.google.com/search?q=fonts+google+vs+adobe&oq=fonts+google+vs+adobe)
@@ -133,7 +135,8 @@ Source: [Difference between @font-face and @import url?](https://stackoverflow.c
 
 ### Activity: Create a font reference
 Write an html page that uses each of the classes you wrote in the previous exercise.
-- create one card per font stack that includes a heading and paragraph
+- create one card per font stack class that includes a heading and paragraph
+- `link` your fonts in the `<head>`
 - try using the semantic tags `section` and/or `article`
 - use sample text of your choice
 - keep your line length to 40-75ch
@@ -141,6 +144,8 @@ Write an html page that uses each of the classes you wrote in the previous exerc
 
 ### Icon fonts
 Search: [icon fonts](https://www.google.com/search?q=icon+fonts)
+
+### SVG as image
 
 ## HTML Entities
 - Reference: [List of all official HTML entities](https://html.spec.whatwg.org/multipage/)
