@@ -152,3 +152,11 @@ Search: [icon fonts](https://www.google.com/search?q=icon+fonts)
 
 ## HTML Entities
 - Reference: [List of all official HTML entities](https://html.spec.whatwg.org/multipage/)
+
+## Prep for Tomorrow
+- Video: [CSS Shapes](https://youtu.be/pOB75oTNhw0)
+- Reference: [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- Learning Game: [Flexbox Froggy](https://flexboxfroggy.com/)
+- Course: [What the Flexbox ?!](https://flexbox.io/)
+  - Take this course at your own pace. It's not required for tomorrow.
+- Search: [Top Flexbox articles on CSS Tricks](https://css-tricks.com/?s=flex&orderby=relevance&post_type=post%2Cpage%2Cguide)
