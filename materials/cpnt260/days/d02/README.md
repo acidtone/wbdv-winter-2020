@@ -12,6 +12,7 @@ See [the complete list of browser supported formats](https://en.wikipedia.org/wi
 - bmp*
 
 ### Images: Are they content or presentation?
+Codepen: [Content (HTML) vs Presentation (CSS) Images](https://codepen.io/acidtone/pen/LYEJQBo)
 - content (html)
   - img tag
     - src attribute
@@ -79,6 +80,7 @@ Limit your body text to serif and sans serif type faces. Reserve scripts and dec
 ### Balancing the typography triad
 - font size
   - for screen design, a good range is 14-25 pixels
+  - em, rem and ch
 - line spacing
   - usually 120-150% of your font size
   - default depends on browser and font family but is often 1.2 (120%)
