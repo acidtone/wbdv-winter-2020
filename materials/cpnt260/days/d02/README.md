@@ -12,6 +12,7 @@ See [the complete list of browser supported formats](https://en.wikipedia.org/wi
 - bmp*
 
 ### Images: Are they content or presentation?
+Codepen: [Content (HTML) vs Presentation (CSS) Images](https://codepen.io/acidtone/pen/LYEJQBo)
 - content (html)
   - img tag
     - src attribute
