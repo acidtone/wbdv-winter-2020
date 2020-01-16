@@ -81,7 +81,7 @@ Limit your body text to serif and sans serif type faces. Reserve scripts and dec
 - font size
   - for screen design, a good range is 14-25 pixels
   - em, rem and ch
-    - Codepen: [Deifferences bt em, rem and ch](https://codepen.io/acidtone/pen/WNbgyQw)
+    - Codepen: [Differences bt em, rem and ch](https://codepen.io/acidtone/pen/WNbgyQw)
 - line spacing
   - usually 120-150% of your font size
   - default depends on browser and font family but is often 1.2 (120%)
@@ -93,6 +93,8 @@ Limit your body text to serif and sans serif type faces. Reserve scripts and dec
 
 ### Generic keywords
 Source: [MDN font-family documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
+
+Codepen: [Generic Font Families](https://codepen.io/acidtone/pen/QWwVxmv)
 
 Generic font families are a fallback mechanism, a means of preserving some of the style sheet author's intent when none of the specified fonts are available. Generic family names are keywords and must not be quoted. A generic font family should be the last item in the list of font family names. The following keywords are defined:
 - serif
