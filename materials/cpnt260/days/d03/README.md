@@ -55,3 +55,15 @@ Practice your felxbox skills by recreating the following respinsive design patte
   - all content centered vertically and horizontally
 - image gallery
 - Bonus try incorporating all content bands into a single layout. Is flexbox required?
+
+# Prep for Monday
+- Reference: [Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- Article: [Basic concepts of Grid layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout)
+- Learning Game: [CSS Grid Garden](https://cssgridgarden.com/)
+- Layout Land
+  - [Basics of CSS Grid: The Big Picture](https://youtu.be/FEnRpy9Xfes)
+  - [Flexbox vs. CSS Grid](https://youtu.be/hs3piaN4b5I)
+- Grid by Example
+  - [Defining a frid](https://gridbyexample.com/video/series-define-a-grid/)
+  - [The fr unit](https://gridbyexample.com/video/series-the-fr-unit/)
+  - [Repeat notation](https://gridbyexample.com/video/series-repeat/)
