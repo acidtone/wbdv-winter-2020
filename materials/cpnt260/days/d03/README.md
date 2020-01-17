@@ -1,5 +1,8 @@
 # CPNT 260: Day 3
 ## Licensing and Attribution
+- [GPL vs MIT](https://www.google.com/search?q=gpl+vs+mit)
+- [Creative Commons](https://creativecommons.org/)
+
 ## Floats and Shapes
 - `float` and `clear`
 - clearfix
