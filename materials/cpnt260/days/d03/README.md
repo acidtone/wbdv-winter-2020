@@ -18,6 +18,7 @@ Codepen spoiler: [Floats and Shapes](https://codepen.io/funwithcodeyyc/pen/MWgNa
 ### In the olden times
 - horizontal nav
 - float grids
+  - Codepen spoiler: [simple 3-column float layout](https://codepen.io/acidtone/pen/wvwxOMR)
 
 ## Flexbox
 Resources: 
