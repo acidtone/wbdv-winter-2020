@@ -24,6 +24,7 @@ Codepen spoiler: [Floats and Shapes](https://codepen.io/funwithcodeyyc/pen/MWgNa
 Resources: 
 - Reference: [The Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - Game: [Flexbox Froggy](https://flexboxfroggy.com/)
+- Article: [The `flex` property](https://css-tricks.com/almanac/properties/f/flex/)
 - Article: [Flexbox's Best Kept Secret](https://hackernoon.com/flexbox-s-best-kept-secret-bd3d892826b6)
 - Search: [Top Flexbox articles on CSS Tricks](https://css-tricks.com/?s=flex&orderby=relevance&post_type=post%2Cpage%2Cguide)
 
