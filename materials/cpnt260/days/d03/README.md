@@ -22,7 +22,8 @@ Resources:
 - Article: [Flexbox's Best Kept Secret](https://hackernoon.com/flexbox-s-best-kept-secret-bd3d892826b6)
 - Search: [Top Flexbox articles on CSS Tricks](https://css-tricks.com/?s=flex&orderby=relevance&post_type=post%2Cpage%2Cguide)
 
-### Basics
+### Basics: Modern horizontal nav
+Codepen spoiler: [Basic Flexbox Nav](https://codepen.io/funwithcodeyyc/pen/BaBXjVL)
 - html structure: containers and items
 - implicit vs explicit sizing
 - justification
