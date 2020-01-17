@@ -81,7 +81,7 @@ Limit your body text to serif and sans serif type faces. Reserve scripts and dec
 - font size
   - for screen design, a good range is 14-25 pixels
   - em, rem and ch
-    - Codepen: [Deifferences bt em, rem and ch](https://codepen.io/acidtone/pen/WNbgyQw)
+    - Codepen: [Differences bt em, rem and ch](https://codepen.io/acidtone/pen/WNbgyQw)
 - line spacing
   - usually 120-150% of your font size
   - default depends on browser and font family but is often 1.2 (120%)
@@ -93,6 +93,8 @@ Limit your body text to serif and sans serif type faces. Reserve scripts and dec
 
 ### Generic keywords
 Source: [MDN font-family documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family)
+
+Codepen: [Generic Font Families](https://codepen.io/acidtone/pen/QWwVxmv)
 
 Generic font families are a fallback mechanism, a means of preserving some of the style sheet author's intent when none of the specified fonts are available. Generic family names are keywords and must not be quoted. A generic font family should be the last item in the list of font family names. The following keywords are defined:
 - serif
@@ -133,6 +135,8 @@ Write a class decoration for each of the system font stacks above.
 ### Font services
 Search: [Google Fonts vs Adobe Fonts](https://www.google.com/search?q=fonts+google+vs+adobe&oq=fonts+google+vs+adobe)
 
+Reference: [Excellent two font combinations](https://www.reliablepsd.com/ultimate-google-font-pairings/)
+
 ## @import vs @font-face
 Source: [Difference between @font-face and @import url?](https://stackoverflow.com/questions/56141957/difference-between-font-face-and-import-url)
 
@@ -151,7 +155,7 @@ Search: [icon fonts](https://www.google.com/search?q=icon+fonts)
 ### SVG as image
 
 ## HTML Entities
-- Reference: [List of all official HTML entities](https://html.spec.whatwg.org/multipage/)
+- Reference: [List of all official HTML entities](https://html.spec.whatwg.org/multipage/named-characters.html#named-character-references)
 
 ## Prep for Tomorrow
 - Video: [CSS Shapes](https://youtu.be/pOB75oTNhw0)
