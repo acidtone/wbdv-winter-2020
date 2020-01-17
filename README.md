@@ -13,9 +13,9 @@
 - [Day 0: Git, Anatomy of a web page](materials/cpnt260/days/d00/README.md)
 - [Day 1: Validation, Box Model, Colour](materials/cpnt260/days/d01/README.md)
 - [Day 2: Web Typography](materials/cpnt260/days/d02/README.md)
-- Day 3: Floats and Flexbox
-- Day 4
-- Day 5
+- [Day 3: Floats and Flexbox](materials/cpnt260/days/d03/README.md)
+- Day 4: CSS Grid Basics
+- Day 5: Forms
 - Day 6
 - Day 7
 - Day 8
