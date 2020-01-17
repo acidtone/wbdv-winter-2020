@@ -4,6 +4,7 @@
 - [Creative Commons](https://creativecommons.org/)
 
 ## Floats and Shapes
+Codepen spoiler: [Floats and Shapes](https://codepen.io/funwithcodeyyc/pen/MWgNapw)
 - `float` and `clear`
 - clearfix
 - considerations of document flow 
