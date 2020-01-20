@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Grid Basics: 5x5</title>
+  <style>
+    body {
+      font-size: 18px;
+      margin: 0;
+      display: flex;
+      height: 100vh;
+    }
+
+    div.grid {
+      display: grid;
+      width: 75vw;
+
+      grid-gap: 1em;
+      background-color: lightgrey;
+
+      margin: auto;
+
+      /* 
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+      grid-template-rows: 1fr 1fr 1fr 1fr 1fr; 
+      */
+
+      /* These are the same as the above two lines */
+      grid-template-columns: minmax(30ch,75ch) 1fr;
+
+      border: 2vmin solid firebrick;
+
+    }
+
+    .grid > * {
+      background-color: white;
+    }
+
+    section {
+      border: 1px dashed black;
+    }
+
+/* 
+    aside {
+      width: min-content;
+    }
+ */
+
+    .tall {
+      grid-row-end: span 2;
+    }
+
+    .full-col {
+      grid-column-start: 1;
+      grid-column-end: -1;
+    }
+
+    .four {
+      grid-column-start: 4;
+      grid-row-start: 2;
+      grid-column-end: 6;
+    }
+
+  </style>
+</head>
+<body>
+  <div class="grid">
+    <header class="full-col"><h1>hello world!</h1></header>
+    <main>
+      <h1>Web typography</h1>
+      <div>From Wikipedia, the free encyclopedia</div>
+      <p><strong>Web typography</strong> refers to the use of <a href="https://en.wikipedia.org/wiki/Font" target="_blank">fonts</a> on the World Wide Web. When HTML was first created, font faces and styles were controlled exclusively by the settings of each web browser. There was no mechanism for individual Web pages to control font display until Netscape introduced the <code>&lt;font&gt;</code> tag in 1995, which was then standardized in the HTML 3.2 specification. However, the font <em>specified</em> by the tag had to be installed on the user's computer or a fallback font, such as a browser's default sans-serif or monospace font, would be used. The first Cascading Style Sheets specification was published in 1996 and provided the same capabilities.</p>
+      <h2>CSS1</h2>
+      <p>In the first CSS specification, authors specified font characteristics via a series of properties:</p>
+      <ul>
+        <li><code>font-family</code></li>
+        <li><code>font-style</code></li>
+        <li><code>font-variant</code></li>
+        <li><code>font-weight</code></li>
+        <li><code>font-size</code></li>
+      </ul>
+      <p>All fonts were identified solely by name. Beyond the properties mentioned above, designers had no way to style fonts, and no mechanism existed to select fonts not present on the client system.</p>
+    </main>
+    <aside>
+      Put Ad Here
+    </aside>
+    <footer class="full-col">This is a footer</footer>
+  </div>
+</body>
+</html>

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Grid Basics: 5x5</title>
+  <style>
+    body {
+      font-size: 15vmin;
+      margin: 0;
+      display: flex;
+      height: 100vh;
+    }
+
+    main {
+      display: grid;
+      height: 90vmin;
+      width: 90vmin;
+
+
+
+      margin: auto;
+
+      /* 
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+      grid-template-rows: 1fr 1fr 1fr 1fr 1fr; 
+      */
+
+      /* These are the same as the above two lines */
+      grid-template-columns: repeat(5,1fr);
+      grid-template-rows: repeat(5,1fr);
+
+
+      border: 2vmin solid firebrick;
+
+    }
+
+    section {
+      border: 1px dashed black;
+    }
+
+    .wide {
+      grid-column-end: span 2;
+    }
+
+    .tall {
+      grid-row-end: span 2;
+    }
+
+    .full-col {
+      grid-column-start: 1;
+      grid-column-end: -1;
+    }
+
+    .four {
+      grid-column-start: 4;
+      grid-row-start: 2;
+      grid-column-end: 6;
+    }
+
+  </style>
+</head>
+<body>
+  <main>
+    <section class="full-col">1</section>
+    <section>2</section>
+    <section class="tall">3</section>
+    <section class="four">4</section>
+    <section>5</section>
+    <section>6</section>
+    <section>7</section>
+  </main>
+</body>
+</html>

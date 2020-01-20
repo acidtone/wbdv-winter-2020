@@ -10,6 +10,7 @@
 - Video: [Grid Basics](https://youtu.be/FEnRpy9Xfes)
 - Grid terminology and simple demo
   - container
+    - direction
   - items
   - cells
   - lines
@@ -22,17 +23,19 @@
   - track sizing
     - fr unit
     - minmax(30ch,90ch)
+    - min-content and max-content
     - [grid track sizing comparison chart](https://codepen.io/huijing/pen/GPrQwN) by [Chen Hui Jing](https://codepen.io/huijing)
+
+### Activity: Simple home page layout
+  - [CSS Grid Garden](https://cssgridgarden.com/) (if you haven't finished already)
+  - [Simple Homepage Layout](https://codepen.io/acidtone/pen/MWgqaYg)
+    - make the above page look like [this homepage](https://codepen.io/acidtone/pen/QejVBW)
 
 ## Grid Naming
 - line names
 - naming grid areas
 - laying out by namegrid area
 
-### Activity: Simple home page layout
-  - [CSS Grid Garden](https://cssgridgarden.com/) (if you haven't finished already)
-  - [Simple Homepage Layout](https://codepen.io/acidtone/pen/MWgqaYg)
-    - make the above page look like [this homepage](https://codepen.io/acidtone/pen/QejVBW)
 
 ## Mixing Flexbox and Grid
   - .grid
