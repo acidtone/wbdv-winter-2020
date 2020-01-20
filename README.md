@@ -14,7 +14,7 @@
 - [Day 1: Validation, Box Model, Colour](materials/cpnt260/days/d01/README.md)
 - [Day 2: Web Typography](materials/cpnt260/days/d02/README.md)
 - [Day 3: Floats and Flexbox](materials/cpnt260/days/d03/README.md)
-- Day 4: CSS Grid Basics
+- [Day 4: CSS Grid Basics](materials/cpnt260/days/d04/README.md)
 - Day 5: Forms
 - Day 6
 - Day 7
