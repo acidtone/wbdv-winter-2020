@@ -29,7 +29,7 @@ This assignment is marked out of 15 and is worth 15% of your final mark for the 
 1. Is the code valid and well organized?
 2. Is the page semantic and accessible?
 3. Is the page responsive?
-  - You are not expected to create a dynamic hamburger menu.
+    - You are not expected to create a dynamic hamburger menu.
 4. Are all the required elements included?
 5. Is the page esthetically pleasing when it comes to colour, typography and layout?
 
