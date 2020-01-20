@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Tic Tac Toe</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+    body {
+      /* Reset */
+      margin: 0;
+      padding: 0;
+
+      /* Set default text styles */
+      font-family: 'Open Sans', cursive;  
+      font-size: 18px;
+
+      display: flex;
+      height: 100vh;
+    }
+
+    main {
+      display: grid;
+
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-rows: 1fr 1fr 1fr;
+      grid-gap: 1em;
+
+      margin: auto;
+      width: 90vmin;
+      height: 90vmin;
+
+      background-color: black;
+    }
+
+    article {
+      display: flex;
+
+      background-color: white;
+
+      font-size: 20vmin;
+    }
+
+    span {
+      margin: auto;
+    }
+
+  </style>
+</head>
+<body>
+  <main>
+    <article><span>X</span></article>
+    <article></article>
+    <article></article>
+    <article></article>
+    <article><span>O</span></article>
+    <article></article>
+    <article></article>
+    <article></article>
+    <article></article>
+  </main>
+</body>
+</html>
