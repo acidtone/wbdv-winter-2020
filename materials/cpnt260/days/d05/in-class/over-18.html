@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="css/main.css">
+  <title>Document</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: #444;
+      font-size: 36px;
+    }    
+    
+    main {
+     display: flex; 
+     height: 100vh;
+    }
+
+    form {
+      margin: auto;
+      padding: 5em;
+
+      background: whitesmoke;
+      color: #331;
+
+      border-radius: 1em;
+
+      text-align: center;
+    }
+
+    input {
+      width: 2em;
+      height: 2em;
+
+      /* For older browsers (to send data) */
+
+      visibility: hidden;
+      position: absolute;
+
+      /* display: none; */
+    }
+
+    label {
+      color: whitesmoke;
+      background-color: darkslategrey;
+      padding: .4em 1em;
+      border-radius: 1em;
+    }
+
+    label:hover {
+      background-color: lightslategray;
+    }
+
+    input:checked + label {
+      border: 4px solid darkred;
+    }
+
+  </style>
+</head>
+<body>
+  <main>
+    <form action="" method="get">
+      <fieldset>
+        <legend>You must be over 18 to continue to browse our fireworks.</legend>
+        <input type="checkbox" name="over18" id="over18">
+        <label for="over18">I confirm I am over 18</label>
+      </fieldset>
+    </form>
+  </main>
+</body>
+</html>

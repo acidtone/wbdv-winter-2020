@@ -2,7 +2,7 @@ legend {
   font-size: 1.2em;
 }
 
-label, input {
-  display: block;
-  margin: .5em 1em;
+
+.inline {
+  display: inline;
 }

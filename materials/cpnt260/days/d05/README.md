@@ -70,6 +70,7 @@ The class's Top 10
     - menu select
   - one or more of many
     - checkbox
+      - nameing your checkboxes `name[]` creates a list on the server side
     - multi-select
 - special fields
   - file upload
@@ -97,6 +98,7 @@ Head out of the gutter! Many industries (ex. brewery/cannabis in Canada) are leg
   - labels
   - layout
 - placeholders
+- validation
 - adjacent and sibling selectors
 - :checked pseudo-selector
 - attr()
