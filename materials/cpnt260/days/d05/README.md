@@ -98,7 +98,10 @@ Head out of the gutter! Many industries (ex. brewery/cannabis in Canada) are leg
   - labels
   - layout
 - placeholders
-- validation
+- modification attributes
+  - required
+  - disabled
+  - pattern
 - adjacent and sibling selectors
 - :checked pseudo-selector
 - attr()

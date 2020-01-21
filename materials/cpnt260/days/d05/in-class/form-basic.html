@@ -9,46 +9,61 @@
   <style>
     body {
       font-size: 20px;
+      display: flex;
+      height: 100vh;
+    }
+
+    form {
+      width: 75vw;
+      max-width: 60ch;
+      margin: auto;
     }
 
     label, input {
       display: block;
       margin: .5em 1em;
     }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 15ch 1fr;
+    }
+
   </style>
 </head>
 <body>
   <form action="app.js/endpoint" method="post">
     <fieldset>
       <legend>Please fill out our form.</legend>
-      <label for="first-name">First Name</label>
-      <input type="text" name="first-name" id="first-name" placeholder="Enter your first name">
-      <label for="lname">Last Name</label>
-      <input type="text" name="lname" id="lname" placeholder="Enter your last name">
-      <label for="email">Email</label>
-      <input type="email" name="email" id="email" placeholder="Enter your email">
-      <label for="tel">Telephone</label>
-      <input type="tel" name="tel" id="tel" placeholder="Enter your phone number">
-      <label for="colour"></label>
-      <input type="color" name="colour" id="colour">
-      <label for="hot-cold">Are you hot or cold?</label>
-      <input type="range" name="hot-cold" id="hot-cold" min="-20" max="40">
-      
-      <input type="submit" name="submit" value="Submit First Name">
+        <div class="grid">
+        <label for="first-name">First Name</label>
+        <input type="text" name="first-name" id="first-name" placeholder="Enter your first name">
+        <label for="lname">Last Name</label>
+        <input type="text" name="lname" id="lname" placeholder="Enter your last name">
+        <label for="email">Email</label>
+        <input type="email" name="email" id="email" placeholder="Enter your email">
+        <label for="tel">Telephone</label>
+        <input type="tel" name="tel" id="tel" placeholder="Enter your phone number">
+        <label for="colour"></label>
+        <input type="color" name="colour" id="colour">
+        <label for="hot-cold">Are you hot or cold?</label>
+        <input type="range" name="hot-cold" id="hot-cold" min="-20" max="40">
+        
 
-      <label for="male" class="inline">Male</label>
-      <input type="radio" name="gender" id="male" value="male">
-      <label for="female">Female</label>
-      <input type="radio" name="gender" id="female" value="female">
-      <label for="other">Other</label>
-      <input type="radio" name="gender" id="other" value="other">
+        <label for="male" class="inline">Male</label>
+        <input type="radio" name="gender" id="male" value="male">
+        <label for="female">Female</label>
+        <input type="radio" name="gender" id="female" value="female">
+        <label for="other">Other</label>
+        <input type="radio" name="gender" id="other" value="other">
 
-      <label for="age"></label>
-      <select name="age" id="age">
-        <option value="0-18">0-18</option>
-        <option value="19-35">19-35</option>
-        <option value="36-99">36-99</option>
-      </select>
+        <label for="age"></label>
+        <select name="age" id="age">
+          <option value="0-18">0-18</option>
+          <option value="19-35">19-35</option>
+          <option value="36-99">36-99</option>
+        </select>
+      </div>
     </fieldset>
 
     <label for="agree">Please agree to our terms of service</label>
@@ -56,6 +71,7 @@
 
     <label for="file">Please upload all your secrets</label>
     <input type="file" name="file" id="file">
+      <input type="submit" name="submit" value="Submit First Name">
 
   </form>
 </body>
