@@ -14,4 +14,7 @@ nav ul {
   padding-left: 0;
 }
 
+fieldset {
+  border: 0;
+}
 

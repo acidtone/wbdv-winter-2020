@@ -32,11 +32,30 @@
 ### Activity: Top 10 best practices
 Break into groups of 3 or 4 and rank your Top 10 of the best practices listed in [58 Form Design Best Practices & Form UX Examples](https://www.ventureharbour.com/form-design-best-practices/). Base your decisions on your own experiences filling out forms.
 
+The class's Top 10
+- Avoid using Catptha links
+- Inline and early error reporting
+- The form working on all major browsers and devices
+- Use conditional logic to shorten your forms
+- Make sure you form is tab-navigatable
+- Use smart defaults
+- Do not slice fields when asking for phone numbers or date of birth
+- Enables browser auto-fill
+- Don’t make your validation too strict
+- Make your form design beautiful
+
 ### Anatomy of a form
 - form container
   - method
+    - get
+      - variables listed after the ? in the url
+    - post
+      - variables sent in a separate header
+      - used when encryption is needed or you want clean urls
+      - OR you're using proper CRUD
   - action
-  - enctype
+  - `enctype="multipart/form-data"`
+    - needed when you're uploading a file
 - input types (see [complete list](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input))
 - text based fields
   - text
@@ -47,6 +66,7 @@ Break into groups of 3 or 4 and rank your Top 10 of the best practices listed in
 - selection fields
   - one of many
     - radio buttons
+      - grouped by the `name` attribute value 
     - menu select
   - one or more of many
     - checkbox
@@ -56,6 +76,7 @@ Break into groups of 3 or 4 and rank your Top 10 of the best practices listed in
     - enctype required
   - range
   - color picker
+- hidden fields
 
 ### Activity: Over-18 button
 Head out of the gutter! Many industries (ex. brewery/cannabis in Canada) are legally required to have a splash page with a click-through "agreement" that you're over the age of 18. Build the button:
@@ -78,6 +99,7 @@ Head out of the gutter! Many industries (ex. brewery/cannabis in Canada) are leg
 - placeholders
 - adjacent and sibling selectors
 - :checked pseudo-selector
+- attr()
 - sprite sheets
 
 ## Flexbox vs Grid Forms, Neither?
