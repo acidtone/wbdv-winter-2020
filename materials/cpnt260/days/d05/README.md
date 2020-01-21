@@ -61,6 +61,13 @@ Break into groups of 3 or 4 and rank your Top 10 of the best practices listed in
 Head out of the gutter! Many industries (ex. brewery/cannabis in Canada) are legally required to have a splash page with a click-through "agreement" that you're over the age of 18. Build the button:
 - must be an operable form
 - use a proper form submit input instead of a button
+- center the form button horizontally and vertically on the page
+- try styling your button using:
+  - `background-color` and `color`
+  - `border`
+  - `border-radius`
+  - `:hover` selector
+  - `box-shadow`
 - bonus: build the button as a label/input:checkbox pair. Hint, an input with `display: none` can still be checked/unchecked using its label. Have the background of the label change when the input is checked.
 
 ### Considerations with forms
@@ -71,6 +78,7 @@ Head out of the gutter! Many industries (ex. brewery/cannabis in Canada) are leg
 - placeholders
 - adjacent and sibling selectors
 - :checked pseudo-selector
+- sprite sheets
 
 ## Flexbox vs Grid Forms, Neither?
 - html structure considerations
