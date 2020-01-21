@@ -15,8 +15,8 @@
 - [Day 2: Web Typography](materials/cpnt260/days/d02/README.md)
 - [Day 3: Floats and Flexbox](materials/cpnt260/days/d03/README.md)
 - [Day 4: CSS Grid Basics](materials/cpnt260/days/d04/README.md)
-- Day 5: Forms
-- Day 6
+- [Day 5: Forms](materials/cpnt260/days/d05/README.md)
+- Day 6: Responsive Design Patterns
 - Day 7
 - Day 8
 - Day 9
