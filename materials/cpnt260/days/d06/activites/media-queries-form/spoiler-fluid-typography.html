@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Basic Form Controls</title>
+  <link rel="stylesheet" href="css/main.css">
+  <style>
+    /* 
+    You MAY NOT change existing html or linked css.
+    */
+    
+    /* Place your code here */
+    body {
+      font-size: 24px;
+    }
+
+    @media (max-width: 800px) {
+      body {
+        font-size: calc(18px + (24 - 18) * ((100vw - 600px) / (800 - 600)));
+      }
+    }
+
+    @media (max-width: 600px) {
+
+      body {
+        font-size: 18px;
+      }
+      
+      .grid {
+        display: block; 
+      }
+
+      .grid > * {
+        display: block;
+      }
+
+      label {
+        margin-top: 1.5rem;
+        margin-bottom: 0;
+        margin-left: 0;
+      }
+
+      input {
+        height: 3rem;
+        width: 95%;
+      }
+
+    } 
+
+  </style>
+</head>
+<body>
+  <form action="" method="post">
+    <fieldset>
+        <legend>Please fill out our form.</legend>
+        <div class="grid">
+          <label for="first-name">First Name</label>
+          <input type="text" name="first-name" id="first-name" placeholder="Enter your first name">
+          <label for="lname">Last Name</label>
+          <input type="text" name="lname" id="lname" placeholder="Enter your last name">
+          <label for="email">Email</label>
+          <input type="email" name="email" id="email" placeholder="Enter your email">
+          <label for="tel">Telephone</label>
+          <input type="tel" class="optional" name="tel" id="tel" placeholder="Enter your phone number">
+      </div>
+    </fieldset>
+    <input type="submit" name="submit" value="Hand Over Privacy">
+
+  </form>
+</body>
+</html>

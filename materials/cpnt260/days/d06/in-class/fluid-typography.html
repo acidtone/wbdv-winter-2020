@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Fluid Typograpy</title>
+  <style>
+    
+    body {
+      font-size: 18px;
+    }
+
+    main {
+      width: 75vw;
+      max-width: 80ch;
+      margin: auto;
+    }
+  
+
+    @media (min-width: 600px) {
+      body {
+        font-size: calc(18px + (24 - 18) * ((100vw - 600px) / (800 - 600)));
+      }
+    }
+
+    @media (min-width: 800px) {
+      body {
+        font-size: 24px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <main>
+    <h1>Hello World!</h1>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reiciendis alias recusandae error aliquam ducimus voluptatibus dicta, illo exercitationem? Laborum asperiores distinctio sunt cumque, explicabo ut ab qui debitis ea iusto voluptate reprehenderit eaque mollitia repudiandae totam ducimus quae voluptatem blanditiis molestiae. Corporis dignissimos provident, a fuga architecto consectetur quod? Fugiat, sit earum aliquam, dicta cum similique perspiciatis consectetur repellat vitae porro aut distinctio quidem. Dolorem ad est porro vitae magnam explicabo quo, earum officia veritatis placeat rerum esse vero? Dolorum vero explicabo nulla, perspiciatis dolorem autem qui ipsa! Quae rem explicabo aliquid alias delectus qui corrupti, quis nihil praesentium! Suscipit.</p>
+  </main>
+</body>
+</html>
