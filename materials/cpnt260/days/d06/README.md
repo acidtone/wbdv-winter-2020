@@ -10,7 +10,7 @@ Lecture: [Beyond Media Queries](https://vimeo.com/235428198) by Michael Riethmul
 - live code: background-color and media queries
 
 ### Activity: Form refactor
-[View details](activities/media-queries-form/README.md)
+[View details](activites/media-queries-form)
 
 ## Responsive typography
 - media queries
