@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Media Query Example</title>
+  <style>
+
+    /* Desktop First */
+
+/* 
+    body {
+      margin: 0;
+      background: maroon;
+    }
+
+    @media screen and (max-width: 1000px) {
+      body {
+        background: whitesmoke;
+      }
+    }
+
+    @media screen and (max-width: 500px) {
+      body {
+        background: darkgoldenrod;
+      }
+    } 
+*/
+
+    /* Mobile First*/
+    body {
+      margin: 0;
+      background: maroon;
+    }
+
+    @media screen and (min-width: 600px) {
+      body {
+        background: darkgoldenrod;
+      }
+    } 
+
+    @media screen and (min-width: 1000px) {
+      body {
+        background: whitesmoke;
+      }
+    }
+
+
+    @media screen and (orientation: landscape) {
+    }
+  </style>
+</head>
+<body>
+  
+</body>
+</html>
