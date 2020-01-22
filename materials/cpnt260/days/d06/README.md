@@ -35,3 +35,11 @@ Spoilers: [Fluid Typography](https://css-tricks.com/snippets/css/fluid-typograph
 Using your knowledge of implicit grids, create a gallery that displays 10 copies of the image gallery card.
 - columns must be implicitly set
 - mobile should see the images in one column
+
+## Prep for Tomorrow
+- Layout Land
+  - [Using clip-path](https://youtu.be/3kncTIpc4Q4)
+  - [Overlap with CSS Grid](https://youtu.be/EashgVqboWo)
+- CSS Tricks 
+  - [Differences with Positioning](https://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/)
+  - [Using Position](https://css-tricks.com/almanac/properties/p/position/)
