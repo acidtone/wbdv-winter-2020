@@ -14,9 +14,10 @@ The above screencap was designed with these specifications:
 - Google fonts used
   - body text: Nunito
   - headings: Libre Baskerville Bold
-- card width: 35rem (card does NOT change in width)
+- card width: 35ch (card does NOT change in width)
 - card height: not explicitly set
 - profile pic width/height: 10rem
+- background image height: 10rem
 - card background-color: #eee
 - border border colour above social media icons: #ccc
 - social media icon colour: navy
