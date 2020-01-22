@@ -14,6 +14,9 @@
     /* Place your code here */
 
     @media (max-width: 600px) {
+
+      /* Using Grid */
+      /* 
       .grid {
         grid-template-columns: auto;
         grid-auto-rows: 3rem;
@@ -21,8 +24,48 @@
       label {
         margin-bottom: 0;
         margin-left: 0;
-        align-self: flex-end;
+      } 
+      */
+
+      /* Using Flexbox */
+/* 
+      .grid {
+        display: flex;
+        flex-direction: column;
       }
+
+      input {
+        height: 3rem;
+      }
+
+      label {
+        align-self: flex-start;
+        margin-bottom: 0;
+        margin-left: 0;
+      } 
+      */
+
+      /* Using Flow layout */
+
+      .grid {
+        display: block; 
+      }
+
+      .grid > * {
+        display: block;
+      }
+
+      label {
+        margin-top: 1.5rem;
+        margin-bottom: 0;
+        margin-left: 0;
+      }
+
+      input {
+        height: 3rem;
+        width: 95%;
+      }
+
     } 
 
   </style>
