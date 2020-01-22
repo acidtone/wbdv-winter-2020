@@ -117,3 +117,12 @@ Find a free form submission service online and create a working Contact form wit
   - name
   - email
   - message
+
+## Prep for Tomorrow
+- Grid by Example
+  - [Introducing minmax()](https://gridbyexample.com/video/series-minmax/)
+  - [Introducing grid auto-placement and order](https://gridbyexample.com/video/series-auto-placement-order/)
+  - [Introducing auto-fill and auto-fit](https://gridbyexample.com/video/series-auto-fill-auto-fit/)
+  - [Content sizing keywords](https://gridbyexample.com/video/content-sizing/)
+- Layout Land Playlist: [Creating Flexibility Models with CSS Grid](https://www.youtube.com/playlist?list=PLbSquHt1VCf3rmXD2BymC_ZOGDEIu0OWP)
+- Article: [Using Media Queries For Responsive Design In 2018](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
