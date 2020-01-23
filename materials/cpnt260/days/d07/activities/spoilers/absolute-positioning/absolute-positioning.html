@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Exercise - Centering Content</title>
+  <link rel="stylesheet" href="styles.css">
+  <style>
+    #box {
+      margin: 30vh auto;
+
+      width: 240px;
+      height: 240px;
+
+      border: 1px solid darkslategrey;
+      background-color: cornsilk;
+
+      position: relative;
+    }
+
+    img {
+      position: absolute;
+      
+      top: -120px;
+      z-index: -1;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <div id="box">
+      <img src="smiley.png" alt="Smiley Face">
+    </div>
+  </main>
+</body>
+</html>

@@ -39,6 +39,10 @@
 - image and svg masks
 
 ### Unboxy Angles
+- clip-path resources:
+  - Tool: [Clippy: CSS clip-path maker](https://bennettfeely.com/clippy/)
+  - CSS Tricks: [Using CSS Clip Path to Create Interactive Effects](https://css-tricks.com/using-css-clip-path-create-interactive-effects/)
+  - Smashing: [Creating Responsive Shapes With Clip-Path](https://www.smashingmagazine.com/2015/05/creating-responsive-shapes-with-clip-path/)
 - clip-path with images
   - CSS-Tricks: [example code](https://css-tricks.com/almanac/properties/c/clip-path/)
 - clip path with floats
