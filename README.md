@@ -17,7 +17,7 @@
 - [Day 4: CSS Grid Basics](materials/cpnt260/days/d04/README.md)
 - [Day 5: Forms](materials/cpnt260/days/d05/README.md)
 - [Day 6: Responsive Design Patterns](materials/cpnt260/days/d06/README.md)
-- Day 7: Principles of Layout
+- [Day 7: Principles of Layout](materials/cpnt260/days/d07/README.md)
 - Day 8
 - Day 9
 ### CPNT 201: Jan 28, 29

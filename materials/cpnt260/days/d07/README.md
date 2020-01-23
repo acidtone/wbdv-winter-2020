@@ -17,7 +17,13 @@
 ### Overlap
 - positioning
   - relative
-  - absolute
+    - turns on the following properties:
+      - `top`
+      - `bottom`
+      - `left`
+      - `right`
+      - `z-index`
+    - absolute
   - fixed
 - live code: overlapping triad with absolute positioning
 - Activity: [Smiley Face](activities/absolute-positioning/README.md)
