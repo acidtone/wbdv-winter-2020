@@ -16,15 +16,17 @@
 
 ### Overlap
 - positioning
-  - relative
-    - turns on the following properties:
-      - `top`
-      - `bottom`
-      - `left`
-      - `right`
-      - `z-index`
+  - turns on the following properties:
+    - `top`
+    - `bottom`
+    - `left`
+    - `right`
+    - `z-index`
+  - values
+    - relative
     - absolute
-  - fixed
+    - fixed
+    - sticky
 - live code: overlapping triad with absolute positioning
 - Activity: [Smiley Face](activities/absolute-positioning/README.md)
 - explicit grid placement

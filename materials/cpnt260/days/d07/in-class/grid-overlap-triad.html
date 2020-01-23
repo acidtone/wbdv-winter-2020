@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Triad of circles ith absolute positioning</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+    }
+
+    section {
+      margin: auto;
+      width: 80vmin;
+      height: 80vmin;
+      border: 1px solid #555;
+
+      display: grid;
+      grid-template-columns: 3fr 1fr 3fr;
+      grid-template-rows: 3fr 1fr 3fr;
+
+    }
+
+    article {
+      border-radius: 50%;
+      width: 30vmin;
+      height: 30vmin;
+      mix-blend-mode: exclusion;
+    }
+
+    .html {
+      background-color: red;
+      grid-column: 1 / -1;
+      grid-row: 1 / 3;
+      align-self: end;
+      justify-self: center;
+    }
+
+    .css {
+      background-color: green;
+      grid-column: 1 / 3;
+      grid-row: 2 / 4;
+      align-self: start;
+      justify-self: end;
+    }
+
+    .js {
+      background-color: blue;
+      grid-column: 2 / 4;
+      grid-row: 2 / 4;
+      align-self: start;
+      justify-self: start;
+    }
+
+  </style>
+</head>
+<body>
+  
+  <section>
+    <article class="html"></article>
+    <article class="css"></article>
+    <article class="js"></article>
+  </section>
+
+</body>
+</html>
