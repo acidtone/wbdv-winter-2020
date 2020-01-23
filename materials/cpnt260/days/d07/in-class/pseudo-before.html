@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Pseudo-element example: Blockquote</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+    }
+
+    blockquote {
+      width: 25ch;
+      margin: auto;
+
+      font-size: 48px;
+  
+    }
+
+    blockquote {
+      position: relative;
+    }
+
+    p::before {
+      content: open-quote;
+      position: absolute;
+      left: -0.5em;
+      top: -.15em;
+      font-size: 200px;
+      color: darkgoldenrod;
+    }
+
+    
+
+  </style>
+</head>
+<body>
+  
+  <blockquote>
+    <p>When I was a kid my parents moved a lot, but I always found them. <br>
+    - Rodney Dangerfield
+    </p>
+  </blockquote>
+
+</body>
+</html>

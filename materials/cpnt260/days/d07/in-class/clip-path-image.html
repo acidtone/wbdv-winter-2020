@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>clip-path with images</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      display: flex;
+    }
+
+    section {
+      margin: auto;
+      width: max-content;
+      max-width: 1000px;
+    }
+
+    img {
+      margin-left: 2em;
+      /*
+      clip-path: circle(500px at 0px 0px); 
+      clip-path: ellipse(365px 230px at 50% 50%);
+      clip-path: inset(10% 10% 10% 10% round 20% 20%);
+      clip-path: polygon(5% 5%, 100% 0%, 100% 75%, 75% 85%, 75% 100%, 50% 85%, 0% 90%);
+      clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
+      clip-path: polygon(30% 0%, 70% 0%, 41% 52%, 70% 100%, 30% 100%, 10% 68%, 10% 30%);
+      clip-path: polygon(46% 85%, 100% 44%, 57% 9%, 89% 100%, 33% 7%, 22% 79%, 4% 25%);
+      clip-path: polygon(26% 5%, 92% 5%, 94% 91%, 71% 82%, 54% 47%, 22% 79%, 4% 25%); 
+      */
+      clip-path: polygon(26% 5%, 92% 5%, 94% 91%, 41% 91%, 33% 53%, 17% 52%, 4% 25%);
+
+      float: right;
+
+      shape-outside: polygon(26% 5%, 92% 5%, 94% 91%, 41% 91%, 33% 53%, 17% 52%, 4% 25%);
+    }
+
+    p {
+      text-align: justify;
+    }
+  </style>
+</head>
+<body>
+  
+  <section>
+    <img src="https://picsum.photos/id/1072/800/500" alt="Truck">
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet repellat minus aspernatur nisi harum incidunt ipsum, eveniet maiores in? Consectetur et illo nostrum praesentium, dignissimos tenetur ad eligendi asperiores commodi cum aperiam, ducimus velit ipsa explicabo! Aperiam cumque ipsam eos ipsum assumenda dolores labore nesciunt voluptatum quam illum iste eaque qui repellat, sed odit facere officia in neque. Laborum velit possimus itaque eum atque officiis tenetur odit id alias numquam exercitationem illum, repudiandae quisquam fugit facilis sapiente expedita cupiditate et corporis quibusdam, quas eos non dignissimos? Nostrum temporibus ipsum praesentium quos! Molestiae cupiditate corrupti voluptatibus corporis eveniet, laboriosam ullam velit sint tenetur assumenda amet dolorem cumque veritatis consequuntur. Natus asperiores suscipit praesentium vero at repellat, minus quis quibusdam adipisci voluptatem consequatur voluptates perspiciatis nobis explicabo totam eos sit accusantium expedita iusto, sint eius tempore. Illum, non aliquid. Laborum, quidem! Ipsa iure recusandae nostrum nisi illo tempore quo voluptatum omnis repudiandae perspiciatis, amet perferendis a voluptate earum temporibus officiis minus voluptates consectetur nobis rerum sed officia doloribus nesciunt? Ex esse quam adipisci at eligendi. Amet repellat aliquid praesentium assumenda provident quae labore distinctio, mollitia perferendis doloribus magnam ut quis voluptate veritatis molestias alias totam dolor tenetur nemo cupiditate et, earum debitis numquam molestiae? Odio blanditiis officiis, libero, qui hic, quod et vitae nam eligendi consequatur assumenda magnam ipsa tempore rerum molestias omnis commodi quam nihil atque recusandae numquam labore exercitationem nemo. In cupiditate voluptas nemo modi quisquam odit, sed similique sapiente ullam atque minus rem asperiores cumque quis tempora dignissimos voluptatibus officiis pariatur repudiandae optio. Enim qui natus nam quis itaque sed odio illo dignissimos iste vero aspernatur vitae quae dolorem ullam reprehenderit, minus eligendi dolores sit veniam cum tempora inventore tempore corrupti earum? Voluptate distinctio ipsum fuga alias inventore impedit ea sunt est? In sit et nulla illo ut nam molestias aspernatur quaerat, maiores animi itaque ab soluta consectetur nesciunt modi nemo veritatis blanditiis delectus ratione aperiam? Hic, nobis reiciendis incidunt eos omnis suscipit veniam, tempore asperiores nesciunt culpa libero ipsum? Quasi ducimus fugit reprehenderit atque deleniti, minima recusandae quae tempore, odio aspernatur repudiandae repellat quisquam cupiditate in facere, incidunt magni. Voluptate repudiandae itaque iure quis, quasi, perferendis architecto, perspiciatis sunt quae inventore quidem deleniti explicabo. Pariatur distinctio molestias nulla consequuntur doloribus ut fugiat obcaecati, dolores at facilis quod nostrum eum in, minima blanditiis, vero eveniet voluptatibus velit ratione deleniti cum officiis! Quaerat repudiandae facere id, beatae illum non vero.</p>
+  </section>
+  <clipPath id="c1">
+    <circle cx="150" cy="150" r="50" />
+    <rect x="150" y="150" width="100" height="100" />
+  </clipPath>
+</body>
+</html>
