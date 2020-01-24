@@ -7,13 +7,16 @@
 
 ### Final Exam
 Monday, Jan 27 @ 12:45PM
+
 Worth: 20%
 - 20 MC Questions
 - ~24 minutes
 
 ### Final Project
 Due: Sunday, Feb 1st @ 8PM
+
 Worth: 35%
+
 Synopsis: Build a single page incorporating Assignments 1-3. Stay tuned for additional requirements and rubiric.
 
 ## Prep
