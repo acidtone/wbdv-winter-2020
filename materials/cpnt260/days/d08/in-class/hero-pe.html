@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Progressive Enchancement: Part 1</title>
+  <link rel="stylesheet" href="css/fonts-base.css">
+  <link rel="stylesheet" href="css/main.css">
+  <style>
+
+    body {
+      font-size: 20px;
+      background: goldenrod;
+    }
+
+    header {
+      display: flex;
+      height: 100vh;
+    }
+    h1 {
+      padding: 2em 0;
+      margin: auto;
+    }
+
+    img {
+      width: 100%;
+      height: 30vh;
+
+      /* 
+      object-fit does not fail gracefully when setting both height and width.
+      While the skewed apsect ratio of an image is ugly, we can live with it.
+      A possible fallback: set either width/height to initial (very situational).
+      */
+      object-fit: cover;
+
+      /* clip-path fails fairly gracefully; no fallback needed */
+      clip-path: polygon(0% 0%, 100% 0%, 100% 85%, 50% 100%, 0% 85%);
+
+    }
+
+      article {
+        margin: auto;
+
+        /* fallback for non-viewport */
+        width: 100%;
+        width: 100vw;
+
+        max-width: 80ch;
+      }
+      section div.wrapper {
+        /* fallback for non-viewport */
+        margin: 0 3em;
+        margin: 0 12.5vw;
+      }
+
+      p {
+        text-align: justify;
+      }
+
+      @media screen and (min-width: 600px) {
+        img {
+          margin: 0 2em;
+
+          /* Fallbacks for non-viewport units, IE 9 */
+          width: 40%;
+          width: 40vm;
+          width: 40vmin;
+
+          /* 
+          if clip-path fails and shape-outside doesn't, text may overlap the image. This doesn't seem to be an issue in any/many browsers
+          */
+          clip-path: polygon(26% 5%, 92% 5%, 94% 91%, 41% 91%, 33% 53%, 17% 52%, 4% 25%);
+          shape-outside: polygon(26% 5%, 92% 5%, 94% 91%, 41% 91%, 33% 53%, 17% 52%, 4% 25%);
+
+          float: right;
+
+        }
+      }
+
+  </style>
+</head>
+<body>
+  <header>
+    <h1>
+$ git commit<br>
+$ git push<br>
+$ git paid
+    </h1>
+  </header>
+  <section>
+    <article>
+      <img src="https://picsum.photos/id/1072/500/500" alt="Truck">
+      <div class="wrapper">
+        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Amet repellat minus aspernatur nisi harum incidunt ipsum, eveniet maiores in? Consectetur et illo nostrum praesentium, dignissimos tenetur ad eligendi asperiores commodi cum aperiam, ducimus velit ipsa explicabo! </p>
+        <p>Aperiam cumque ipsam eos ipsum assumenda dolores labore nesciunt voluptatum quam illum iste eaque qui repellat, sed odit facere officia in neque. Laborum velit possimus itaque eum atque officiis tenetur odit id alias numquam exercitationem illum, repudiandae quisquam fugit facilis sapiente expedita cupiditate et corporis quibusdam, quas eos non dignissimos?</p>
+        <p>Nostrum temporibus ipsum praesentium quos! Molestiae cupiditate corrupti voluptatibus corporis eveniet, laboriosam ullam velit sint tenetur assumenda amet dolorem cumque veritatis consequuntur. Natus asperiores suscipit praesentium vero at repellat, minus quis quibusdam adipisci voluptatem consequatur voluptates perspiciatis nobis explicabo totam eos sit accusantium expedita iusto, sint eius tempore.</p>
+      </div>
+      </article>
+  </section>
+
+</body>
+</html>

@@ -35,7 +35,7 @@ Synopsis: Build a single page incorporating Assignments 1-3. Stay tuned for addi
 2. Consider older browsers
     - what's the support for the newer features being used?
     - what's the user experience without these declarations?
-    - is the site borken? 
+    - is the site broken? 
       - if not, is it worth fixing?
 3. Craft better code
     - how do we science the sh*t out of this?
@@ -44,7 +44,7 @@ Synopsis: Build a single page incorporating Assignments 1-3. Stay tuned for addi
 Source: [CSS Overrides](https://youtu.be/0X6zrW2QW8Q) by Jen Simmons
 
 ### Activity: Progressively Enhance clip-path and shape-outside
-See [README](activities/progressiveh/README.md) for details.
+See [README](activities/progressive/README.md) for details.
 
 ## Feature Queries
 - chain queries together with AND

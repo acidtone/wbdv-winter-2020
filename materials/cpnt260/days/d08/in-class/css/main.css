@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-image: url(https://picsum.photos/id/1022/1000/1300);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  
+  font-family: monospace;
+  font-size: 4vw;
+  font-weight: normal;
+  text-align: center;
+  color: whitesmoke;
+}
