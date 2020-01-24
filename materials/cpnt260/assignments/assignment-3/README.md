@@ -25,7 +25,7 @@ Build two splash pages (no content that requires scrolling)
   - password strength guidelines (i.e. length, required symbols, etc)
   - which fields are mandatory?
 ## General Requirements
-- both pages should include global navigation for the Signup and Register links
+- both pages should include global navigation for the Login and Register links
 - both forms should be accessible
 - all code should validate
 - All CSS should be in an external stylesheet(s)
