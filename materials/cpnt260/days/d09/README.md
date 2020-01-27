@@ -1,7 +1,8 @@
 # CPNT 260: Day 9
 ## House Keeping
 - Assignment 1 marks
-- Final Project
+  - comments and corrections listed in "comments" branch of your repo (comments, but not corrections, also copied to Brightspace)
+- [Final Project](../../assignments/final/README.md)
 
 ## Example Mobile App Layout 
 Live code session
