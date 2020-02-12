@@ -64,6 +64,6 @@ Practice your felxbox skills by recreating the following respinsive design patte
   - [Basics of CSS Grid: The Big Picture](https://youtu.be/FEnRpy9Xfes)
   - [Flexbox vs. CSS Grid](https://youtu.be/hs3piaN4b5I)
 - Grid by Example
-  - [Defining a frid](https://gridbyexample.com/video/series-define-a-grid/)
+  - [Defining a grid](https://gridbyexample.com/video/series-define-a-grid/)
   - [The fr unit](https://gridbyexample.com/video/series-the-fr-unit/)
   - [Repeat notation](https://gridbyexample.com/video/series-repeat/)
