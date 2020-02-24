@@ -38,8 +38,8 @@ See: Traversy Docker Cheatsheet
 
 ## If you're working on your own system
 Install the following software. If one is already installed, check the version and compare it to the latest stable release. Ask you instructor before you update/upgrade.
-- VirtualBox
-- Vagrant
+- [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+- [Vagrant](https://www.vagrantup.com/downloads.html)
 - Git
 SAIT workstations will have this software installed already.
 
