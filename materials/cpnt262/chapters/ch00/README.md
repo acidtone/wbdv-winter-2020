@@ -46,7 +46,7 @@ SAIT workstations will have this software installed already.
 ## Option 2: Setup Vagrant
 1. Create a local folder on your C: drive called 'vagrant'
 2. Using Git Bash or similar command line interface to navigate to this (probably empty) directory on your file system.
-3. clone this git repo: https://github.com/acidtone/node-express-mongodb
+3. clone this git repo: https://github.com/acidtone/wbdv-winter-2020.git
 4. `$ vagrant up`
 5. `$ vagrant ssh`
 
