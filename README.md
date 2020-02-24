@@ -42,8 +42,8 @@
 - Day 7
 - Day 8
 ### CPNT 262: Feb 24-26
-- Day 9
-- Day 10
+- [Day 9: Environment Setup](materials/cpnt262/chapters/ch00/README.md)
+- Day 10: Javascript Review
 - Day 11
 ### CPNT 264: Feb 27, 28
 - Day 0

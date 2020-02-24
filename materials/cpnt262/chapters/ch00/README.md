@@ -1,4 +1,4 @@
-# CPNT 262: Day 0 - Environment Setup
+# CPNT 262: Day 9 - NodeJS Environment Setup
 ## Questions to ask
 - Who's using their own laptop?
   - Mac, Windows or Linux?
