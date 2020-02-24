@@ -1,0 +1,10 @@
+version: '3'
+services:
+  node: 
+    container_name: node-template
+    command: tail -f /dev/null
+    build: .
+    volumes:
+      - .:/usr/src/app
+    ports:
+      - 3000:3000
