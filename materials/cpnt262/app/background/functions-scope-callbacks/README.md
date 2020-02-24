@@ -33,3 +33,6 @@ Sometimes they are the same, but sometimes not
 ### Activity: Function scope
 See: [2-function-scope.js](2-function-scope.js)
 Add some `console.log()` statements and try to predict what value `myVar` has in different execution contexts
+
+## Callback functions
+Definition: 
