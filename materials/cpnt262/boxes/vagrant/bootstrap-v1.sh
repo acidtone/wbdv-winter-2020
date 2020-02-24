@@ -10,7 +10,7 @@ curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
 sudo apt -y install nodejs
 
 # Install MongoDB
-sudo apt install -y mongodb
+# sudo apt install -y mongodb
 
 
 # Install NPM
@@ -25,5 +25,5 @@ echo "cd /vagrant" >> /home/vagrant/.bashrc
 echo "PS1='\u:\W\$ '" >> /home/vagrant/.bashrc
 
 # Start Mongodb
-sudo systemctl enable mongodb.service
-sudo service mongodb start
+# sudo systemctl enable mongodb.service
+# sudo service mongodb start
