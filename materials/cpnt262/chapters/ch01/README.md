@@ -1,4 +1,7 @@
 # CPNT 262: Chapter 1
+## Gotchas if not using Docker or Vagrant
+- conflicting ports
+
 ## Javascript Review
 - names
 - primitives values
