@@ -30,6 +30,8 @@ See: [Traversy Docker Cheatsheet](https://gist.github.com/bradtraversy/89fad226d
 7. If once docker is finished creating an image and container, try connecting to the container via ssh:
     - `$ docker exec -it <mycontainer> bash`
     - if successful, you should see a different command line prompt
+8. Run `hello-world.js` in node
+    - `$ node hello-world.js`
 
 ### Working with Containers
 See: Traversy Docker Cheatsheet
