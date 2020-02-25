@@ -4,5 +4,5 @@
 // 2. from a script tag in an HTML file
 // 3. from an onclick attribute in a button element
 
-// In node, returns an empty object
+// In node, `this` returns an empty object (when in the global execution context)
 console.log(this);
