@@ -44,7 +44,7 @@
 ### [CPNT 262: Feb 24-26](materials/cpnt262/README.md)
 - [Day 9: Environment Setup](materials/cpnt262/chapters/ch00/README.md)
 - [Day 10: Javascript Review - Names, Values and Expressions](materials/cpnt262/chapters/ch01/README.md)
-- Day 11: Functions, Methods and Modules
+- [Day 11: Functions, Methods and Modules](materials/cpnt262/chapters/ch02/README.md)
 ### CPNT 264: Feb 27, 28
 - Day 0
 - Day 1
