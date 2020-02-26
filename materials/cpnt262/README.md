@@ -24,6 +24,7 @@ Source: [Javascript the Weird Parts](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts
 - Expression: A piece of code that returns a value.
 - Coersion: Converting a value from one type to another. 
 - Object: A collection of name/value pairs (in terms of Javascript).
+- First-class Function: Everything you can do with other types, you can do with functions
 
 ### Resources
 - [Eloquent Javascript](https://eloquentjavascript.net/)

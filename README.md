@@ -41,15 +41,15 @@
 - Day 6
 - Day 7
 - Day 8
-### CPNT 262: Feb 24-26
+### [CPNT 262: Feb 24-26](materials/cpnt262/README.md)
 - [Day 9: Environment Setup](materials/cpnt262/chapters/ch00/README.md)
 - [Day 10: Javascript Review - Names, Values and Expressions](materials/cpnt262/chapters/ch01/README.md)
-- Day 11: Functions, Scope and Modules
+- Day 11: Functions, Methods and Modules
 ### CPNT 264: Feb 27, 28
 - Day 0
 - Day 1
 ### CPNT 262: Mar 2-10
-- Day 12
+- Day 12: Dependencies, NPM and Express
 - Day 13
 - Day 14
 - Day 15
