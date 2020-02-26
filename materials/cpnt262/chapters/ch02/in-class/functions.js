@@ -13,7 +13,7 @@ function a() {
   // Defining a second function. 
   function b() {
     // This code is not executed until b() is invoked
-    // b() inherits x from its outer environment
+    // b() inherits x from its outer environment: a()
     console.log(`b(): ${x}`) // -> 2
   }
 
@@ -26,7 +26,8 @@ function a() {
 let x = 1;
 console.log(`global: ${x}`); // -> 1
 
-// Run the code that's inside a(). This creates a new execution context
+// Run the code that's inside a()
+// This creates a new execution context that the global environment has no knowledge of
 a();
 
 // The global context has no knowledge of a()'s variable environment
