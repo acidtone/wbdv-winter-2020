@@ -11,7 +11,7 @@ recipe.serving = '3/4 cup'
 // Assign an array of ingredients in chronological order (see recipe.directions)
 recipe.ingredients = [
   {
-    item: 'garlic, finely grated',
+    item: 'clove garlic, finely grated',
     amount: 1
   },
   {
