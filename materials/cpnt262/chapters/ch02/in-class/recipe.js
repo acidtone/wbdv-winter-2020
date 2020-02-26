@@ -53,6 +53,6 @@ recipe.customTitle = function(something) {
 // const customTitle = `${recipe.title}, ${dashOf('pizza')}!`
 console.log(recipe.customTitle('durian'));
 
-// Activity 1: customIngredients()
+// Activity 1a: customIngredients()
 
-// Activity 2: customDirections()
+// Activity 1b: customDirections()
