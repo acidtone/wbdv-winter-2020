@@ -4,7 +4,6 @@ const definitions = require('./definitions.js');
 
 const app = express();
 
-console.log(definitions);
 app.get('/api/v1/definitions', function(request, response){
   response.json(definitions);
 })
