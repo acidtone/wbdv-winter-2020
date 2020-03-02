@@ -1,20 +1,15 @@
 {
-  "name": "wbdv-winter-2020",
+  "name": "docker-template",
   "version": "1.0.0",
-  "description": "Express Hello World",
+  "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/acidtone/wbdv-winter-2020.git"
+    "start": "node app.js",
+    "build": "./build.sh"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/acidtone/wbdv-winter-2020/issues"
-  },
-  "homepage": "https://github.com/acidtone/wbdv-winter-2020#readme"
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
