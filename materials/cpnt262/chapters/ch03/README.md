@@ -1,4 +1,8 @@
 # CPNT 262: Chapter 3
+## Housekeeping
+- [Assignment 1: Basic Express Website](../../assignments/assignment-1/README.md)
+- do you have admin privileges?
+
 ## Overview Static Express Website
 - [Official Site](https://expressjs.com/)
 - [Express Middleware](https://expressjs.com/en/guide/using-middleware.html)
