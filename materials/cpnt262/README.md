@@ -1,4 +1,18 @@
 # CPNT 262 - Javascript/NodeJS
+## Assignments
+- [Assignment 1: Basic Express Website](assignments/assignment-1/README.md)
+  - Due Friday, March 6 @ 8pm
+  - Weight: 20% of Node mark
+- Assignment 2: MongoDB Gallery
+  - Due Monday, March 9 @ 8pm
+  - Weight: 20% of Node mark
+- Assignment 3: User Authentication
+  - Due Wednesday, March 11 @ 8pm
+  - Weight: 20% of Node mark
+- Final Project
+  - Due: Monday March 16 @ 8pm
+  - Weight: 40% of Node mark
+
 ## Definitions
 Source: [Javascript the Weird Parts](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts) (and Tony)
 ### Big Picture
