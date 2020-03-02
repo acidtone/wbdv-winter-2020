@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hello World!</title>
+</head>
+<body>
+  Hello World!!!
+  <dl>
+    <template>
+      <div>
+        <dt>placeholder</dt>
+        <dd>placeholder</dd>
+      </div>
+    </template>
+  </dl>
+  <script>
+    fetch('http://localhost:3000/api/v1/definitions')
+      .then((response) => {
+        return response.json();
+      })
+      .then((data) => {
+        const dl = document.querySelector('dl');
+        const template = document.querySelector('template');
+        data.forEach(function(item){
+          let clone = template.content.cloneNode(true);
+          clone.querySelector('dt').innerText = item.term;
+          clone.querySelector('dd').innerText = item.definition;
+          dl.appendChild(clone);
+        })
+      });
+  </script>
+</body>
+</html>
