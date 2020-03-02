@@ -49,7 +49,7 @@
 - Day 0
 - Day 1
 ### CPNT 262: Mar 2-10
-- [Day 12: Dependencies, NPM and Express]
+- [Day 12: Dependencies, NPM and Express](materials/cpnt262/chapters/ch03/README.md)
 - Day 13: CRUD, Views and Templates
 - Day 14: Endpoints, Routes and Params
 - Day 15: dotenv, NoSQL and MongoDB (Atlas)
