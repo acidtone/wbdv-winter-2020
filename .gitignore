@@ -1,6 +1,11 @@
 # prep folder
 _royston/
 
+# Docker
+Dockerfile
+docker-compose.yml
+build.sh
+
 # Windows
 Thumbs.db
 desktop.ini
