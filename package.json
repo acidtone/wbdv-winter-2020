@@ -2,7 +2,7 @@
   "name": "docker-template",
   "version": "1.0.0",
   "engines": {
-    "node": "12.16.x"
+    "node": "12.16.1"
   }
   "description": "",
   "main": "app.js",
