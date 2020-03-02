@@ -49,13 +49,13 @@
 - Day 0
 - Day 1
 ### CPNT 262: Mar 2-10
-- Day 12: Dependencies, NPM and Express
-- Day 13
-- Day 14
-- Day 15
-- Day 16
-- Day 17
-- Day 18
+- [Day 12: Dependencies, NPM and Express]
+- Day 13: CRUD, Views and Templates
+- Day 14: Endpoints, Routes and Params
+- Day 15: dotenv, NoSQL and MongoDB (Atlas)
+- Day 16: Models, Mongoose and Routers
+- Day 17: Authentication
+- Day 18: Review, Lab Day
 ### CPLN 240: Mar 11
 - Day 0
 ### CPNT 264: Mar 12, 13
