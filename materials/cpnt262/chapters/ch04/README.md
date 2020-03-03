@@ -17,12 +17,12 @@ See: [Express 4.x API](https://expressjs.com/en/api.html)
   - next
 
 ## Request object
-- req.url
-  - pathname
-  - search
-  - query
+- request object is created for us by express
+  - `request.originalUrl`: The entire URL after the domain
+  - `request.path`: Everything before the '?'
+  - `query`: Everything after the '?' but as an object
 - params
-  - Examples:
+  - Example:
     - :id
     - :email
     - :status
