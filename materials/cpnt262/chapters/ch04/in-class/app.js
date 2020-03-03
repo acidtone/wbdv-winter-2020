@@ -12,15 +12,17 @@ app.use(function(req, res, next) {
   
   // res.send(`<h1 style="font-size: 72px;">${req.query.name}</h1>`); // Ends the request-response cycle
   // res.json(req.query.hobbies); // sends json instead
-  
-  // Needed if you don't send a response; otherwise the browser hang
-  // next();
 
+  // conditionals like this are not needed with app.get
   if (req.path === '/gallery') {
     res.send(`<h1>My Sweet, Sweet Gallery</h1>`);
   } else {
     next();
   }
+
+  // Needed if you don't send a response; otherwise the browser hang
+  // next();
+
 });
 */
 
