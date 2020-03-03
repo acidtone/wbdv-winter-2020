@@ -1,7 +1,13 @@
 const path = require('path');
 const express = require('express');
+const ejs = require('ejs');
+const pageInfo = require('./pageInfo');
 
 const app = express();
+
+app.set('view engine','ejs'); // allows us to exclude the file extension
+
+
 /*
 // Order matters. This app.use function happens before the app.use functions below it.
 app.use(function(req, res, next) {
@@ -33,6 +39,22 @@ app.get('/images',function(req, res) {
 
 app.get('/images/:id/:width/:height',function(req, res) {  
   res.send(`<h1>My Sweet, Sweet Gallery: Image ${req.params.id} (${req.params.width} x ${req.params.height})</h1>`);
+});
+
+app.get('/',function(req, res) {  
+  res.render('index',pageInfo.index);
+});
+
+app.get('/contact',function(req, res) {  
+  res.render('contact',pageInfo.contact);
+});
+
+app.get('/resources',function(req, res) {  
+  res.render('resources',pageInfo.resources);
+});
+
+app.get('/definitions',function(req, res) {  
+  res.render('definitions',pageInfo.definitions);
 });
 
 app.use(express.static(path.join(__dirname, 'public')));
