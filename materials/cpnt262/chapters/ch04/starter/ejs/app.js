@@ -1,5 +1,6 @@
 const path = require('path');
 const express = require('express');
+const pageInfo = require('./pageInfo.js');
 
 const app = express();
 
