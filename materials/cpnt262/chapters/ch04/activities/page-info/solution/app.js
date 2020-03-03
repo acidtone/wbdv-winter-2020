@@ -1,17 +1,23 @@
 const path = require('path');
 const express = require('express');
-const definitions = require('./definitions');
+const pageInfo = require('./pageInfo');
 
 const app = express();
 
-app.get('/definitions',function(req, res) {  
-  res.json(definitions);
+app.get('/',function(req, res) {  
+  res.json(pageInfo.index);
 });
 
-app.get('/definitions/:slug',function(req, res) {  
-  res.json(definitions.filter(function(definition) {
-    return definition.slug == req.params.slug;
-  }));
+app.get('/contact',function(req, res) {  
+  res.json(pageInfo.contact);
+});
+
+app.get('/resources',function(req, res) {  
+  res.json(pageInfo.resources);
+});
+
+app.get('/definitions',function(req, res) {  
+  res.json(pageInfo.definitions);
 });
 
 app.use(express.static(path.join(__dirname, 'public')));
