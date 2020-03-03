@@ -42,6 +42,9 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+# Mongo Data
+data
+
 # Optional npm cache directory
 .npm
 
