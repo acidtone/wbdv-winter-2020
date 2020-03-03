@@ -3,12 +3,13 @@ const express = require('express');
 
 const app = express();
 
-// const requestTime = function (request, response, next) {
-//   response.locals.requestTime = Date.now();
-//   next();
-// }
+const requestTime = function (request, response, next) {
+  response.locals.requestTime = Date.now();
+  console.log(response);
+  next();
+}
 
-// app.use(requestTime)
+app.use(requestTime)
 
 // Gets all users
 // app.get('/api/users',function(request,response){
