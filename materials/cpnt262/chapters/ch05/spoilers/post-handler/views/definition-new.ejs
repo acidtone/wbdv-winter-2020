@@ -1,0 +1,13 @@
+<%- include('partials/header') %>
+  <header><h1><%= title %></h1></header>
+  <form action="/definitions/new" method="POST">
+    <fieldset>
+      <legend><%= description %></legend>
+      <label for="term">Term</label>
+      <input type="text" name="term" id="term">
+      <label for="definition">Definition</label>
+      <input type="text" name="definition" id="definition">
+      <button type="submit">Add Definition</button>
+    </fieldset>
+  </form>
+<%- include('partials/footer') %>
