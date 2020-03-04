@@ -10,6 +10,7 @@ MongoClient.connect(uri,{ useUnifiedTopology: true,useNewUrlParser: true }, func
    if(err) {
         console.log('Error occurred while connecting to MongoDB Atlas...\n',err);
    }
+
    console.log('Connected...');
    client.close();
 });

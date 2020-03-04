@@ -35,11 +35,11 @@ app.get('/definitions/new',function(req, res) {
 // Step 2: Add POST handler for submitted data and (Step 3) render a "thank you" view that displays the submitted data
 app.post('/definitions/new',function(req, res) {
   console.log(req.body);
+  res.locals.formData = req.body;
   res.render('thank-you', 
   {
     title: 'Thank You',
-    description: 'Your definition was submitted',
-    formData: req.body
+    description: 'Your definition was submitted'
   });
 })
 

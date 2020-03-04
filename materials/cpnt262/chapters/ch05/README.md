@@ -21,7 +21,7 @@
   - [See spoilers](spoilers/fs/app.js)
 
 ## Activity: Set up MongoDB for tomorrow
-[See Activity 2](activities/mogodb-atlas/README.md)
+[See Activity 2](activities/mongodb-atlas/README.md)
 - MongoDB Atlas account
 - local MongoDB
 - MongoDB Compass
