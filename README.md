@@ -52,7 +52,7 @@
 - [Day 12: Dependencies, NPM and Express](materials/cpnt262/chapters/ch03/README.md)
 - [Day 13: CRUD, GET Endpoints and Views](materials/cpnt262/chapters/ch04/README.md)
 - [Day 14: POST Endpoints and Async](materials/cpnt262/chapters/ch05/README.md)
-- Day 15: dotenv, NoSQL and MongoDB (Atlas)
+- [Day 15: dotenv, NoSQL and MongoDB (Atlas)](materials/cpnt262/chapters/ch06/README.md)
 - Day 16: Models, Mongoose and Routers
 - Day 17: Authentication
 - Day 18: Review, Lab Day
