@@ -53,8 +53,8 @@
 - [Day 13: CRUD, GET Endpoints and Views](materials/cpnt262/chapters/ch04/README.md)
 - [Day 14: POST Endpoints and Async](materials/cpnt262/chapters/ch05/README.md)
 - [Day 15: dotenv, NoSQL and MongoDB (Atlas)](materials/cpnt262/chapters/ch06/README.md)
-- Day 16: Models, Mongoose and Routers
-- Day 17: Authentication
+- [Day 16: Models and Mongoose](materials/cpnt262/chapters/ch07/README.md)
+- Day 17: Authentication and Routers
 - Day 18: Review, Lab Day
 ### CPLN 240: Mar 11
 - Day 0
