@@ -3,10 +3,10 @@
 - [Assignment 1: Basic Express Website](assignments/assignment-1/README.md)
   - Due Friday, March 6 @ 8pm
   - Weight: 20% of Node mark
-- Assignment 2: MongoDB Gallery
+- Assignment 2: Gallery Custom Module
   - Due Monday, March 9 @ 8pm
   - Weight: 20% of Node mark
-- Assignment 3: User Authentication
+- Assignment 3: MongoDB Gallery
   - Due Wednesday, March 11 @ 8pm
   - Weight: 20% of Node mark
 - Final Project

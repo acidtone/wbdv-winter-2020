@@ -3,7 +3,7 @@
 Friday, March 6th @ 8pm
 
 ## Weight
-20% of Node portion of CPNT 262 (10% of total)
+20% of Node portion (10% of CPNT 262)
 
 ## Details
 In this assignment, we are going to deploy a simple multi-page website using Express and a view engine (either EJS or Pug).
