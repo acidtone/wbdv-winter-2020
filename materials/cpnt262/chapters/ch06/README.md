@@ -5,6 +5,9 @@
 - [MongoDB Crash Course](https://www.youtube.com/watch?v=-56x56UppqQ) by Brad Traversy
 - [MongoDB Full Tutorial w/ Node.js, Express, & Mongoose](https://www.youtube.com/watch?v=4yqu8YF29cU) by Free Code Camp
 
+## SQL vs NoSQL
+- Search: [SQL vs NoSQL](https://www.google.com/search?q=sql+vs+nosql)
+
 ## Overview: Relational Databases
 - Objects
   - database (spreadsheet file)
@@ -32,9 +35,6 @@
   - PostgreSQL
   - Oracle
   - SQL Server
-
-## SQL vs NoSQL
-- Search: [SQL vs NoSQL](https://www.google.com/search?q=sql+vs+nosql)
 
 ## What is JSON?
 - Search: [What is JSON](https://www.google.com/search?q=what+is+JSON)
