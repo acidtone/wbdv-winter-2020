@@ -3,7 +3,7 @@ const MongoClient = require('mongodb').MongoClient;
 require('dotenv').config();
 
 // Import source data for insert
-const definitions = require('./fixtures/definitions');
+const definitions = require('./definitions.js');
 
 // Setup server credentials securely
 const uri = process.env.DB_CONNECTION;
@@ -32,8 +32,8 @@ MongoClient.connect(uri,{ useUnifiedTopology: true,useNewUrlParser: true },  fun
       console.log('There was a problem');
     }
     console.log(cursor.insertedCount);
+    // Close the connection. You don't have to do this but, if you do, it should be done after all your callbacks have been completed.
+    client.close();
   });
 
-  // Close the connection. This is often problematic in asynchronous environments
-  client.close();
 });

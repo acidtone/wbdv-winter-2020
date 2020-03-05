@@ -12,6 +12,8 @@ function greet(callback) {
 	callback(data);
 }
 
+console.log('First!');
+
 // We invoke greet the first time and do something with the data
 greet(function(data) {
 	console.log('The callback was invoked!');
@@ -23,3 +25,5 @@ greet(function(data) {
 	console.log('A second callback was invoked!');
 	console.log(data.name);
 });
+
+console.log('Last!');
