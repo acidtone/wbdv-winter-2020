@@ -6,7 +6,7 @@
 - Assignment 2: Gallery Custom Module
   - Due Monday, March 9 @ 8pm
   - Weight: 20% of Node mark
-- Assignment 3: MongoDB Gallery
+- Assignment 3: MongoDB/Mongoose Gallery
   - Due Wednesday, March 11 @ 8pm
   - Weight: 20% of Node mark
 - Final Project
