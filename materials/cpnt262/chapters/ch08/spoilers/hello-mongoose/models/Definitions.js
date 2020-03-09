@@ -7,7 +7,10 @@ const mongoose = require('mongoose');
 */
 const definitionSchema = new mongoose.Schema(
   {
-    term: String,
+    term: {
+      type: String,
+      required: true
+    },
     definition: String,
     slug: String
   }

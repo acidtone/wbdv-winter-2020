@@ -9,15 +9,31 @@ Wednesday, March 11 @ 8pm
 In this assignment, we are going to refactor Assignment 2 to use a MongoDB database. Data and CRUD operations will be managed using Mongoose.
 
 ## Instructions
-
 ### Server Setup
-TBD
+- Express server
+  - Static file handler
+  - 404 handler
+- require
+  - express
+  - dotenv
+  - mongoose
+- Mongoose connection
+  - .on event for errors
+  - .once event for successful connection
 
-### Mongoose and Model Setup
-TBD
+### Model Definition and Model Compilation/Export
+- Define `Image` Schema in a dedicated `/models` directory
+- export compiled `Image` model
+- require `Image` model in app.js
 
-### Refactor GET handler for Mongoose
-TBD
+### Refactor GET handlers for Mongoose
+Refactor the endpoints you used in Assignment 2 to use Mongoose instead of a custom module
+- GET /images (call also use /gallery instead)
+  - use model.find() to return all image documents from Atlas and render a view
+  - response should look like the image list you rendered for Assignment 2
+- GET /images/:id
+  - use model.findOne() to return a single image document from Atlas and render a view
+  - response should look like the single image page you rendered for Assignment 3
 
 ## Submitting Your Assignment
 In order to receive a grade, you must:
@@ -30,5 +46,5 @@ This assignment will be marked out of 20 points. 5 points will be given for each
 
 1. Code Quality
 2. Server Setup
-3. Mongoose
+3. Model Definition
 4. Endpoint Refactor

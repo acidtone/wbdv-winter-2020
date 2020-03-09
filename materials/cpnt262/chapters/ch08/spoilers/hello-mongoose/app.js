@@ -80,6 +80,7 @@ app.get('/definitions/:slug', function(request,response){
   });
 });
 
+
 app.post('/definitions', function(request, response){
   // Auto generate slug using slugify() on term field
   request.body.slug = slugify(request.body.term);
