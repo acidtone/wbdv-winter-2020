@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Definitions</title>
+  <%- include('partials/head') %>
+</head>
+<body class="center-child">
+  <div class="wrapper">
+    <%- include('partials/nav') %>
+    <main class="text-box">
+      <h1>Javascript Definitions</h1>
+      <%- include('partials/definition-new') %>
+      <dl>
+      <% definitions.forEach(function(def){ %>
+        <div>
+          <dt><a href="/definitions/<%=def.slug%>"><%=def.term %></a></dt>
+          <dd><%=def.definition %></dd>
+        </div> 
+      <% }) %>      
+      </dl>
+    </main>
+    <%- include('partials/footer') %>
+</div>
+</body>
+</html>

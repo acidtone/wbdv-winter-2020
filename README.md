@@ -54,7 +54,7 @@
 - [Day 14: POST Endpoints and Async](materials/cpnt262/chapters/ch05/README.md)
 - [Day 15: dotenv, NoSQL and MongoDB (Atlas)](materials/cpnt262/chapters/ch06/README.md)
 - [Day 16: Object prototypes, Review, Lab Day](materials/cpnt262/chapters/ch07/README.md)
-- Day 17: Models and Mongoose
+- [Day 17: Models and Mongoose](materials/cpnt262/chapters/ch08/README.md)
 - Day 18: Authentication and Routers
 ### CPLN 240: Mar 11
 - Day 0
