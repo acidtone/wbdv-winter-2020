@@ -20,7 +20,7 @@ In this assignment, we are going to deploy a dynamic gallery using a Node custom
   - The server should respond with an HTML gallery when the user navigates to `/gallery` on your website.
   - Use EJS or Pug to compile this page using Node. DO NOT fetch JSON from the browser and build the list on the frontend.
 - View setup
-  - A list of all images in the gallery collection is displayed on the page. The image files have been provided as part of this assignment.
+  - Use a loop to list of all images in the gallery collection is displayed on the page. The image files have been provided as part of this assignment.
   - Data for gallery images should be stored and accessed from a custom module, based on the javascript object provided with this assignment.
 - Card design: each image should be displayed semantically using the `figure`, `img` and `figcaption` elements like so:
   - `figure`
@@ -32,7 +32,7 @@ In this assignment, we are going to deploy a dynamic gallery using a Node custom
 ### Image Endpoint
 - GET `/gallery/:id`
   - The server should respond with an HTML page containing a single image when the user navigates to `/gallery/:id` on your website.
-  - Use EJS or Pug to compile this page using Node. DO NOT fetch JSON from the browser and build the list on the frontend.
+  - Use EJS or Pug to compile this page using Node. DO NOT fetch JSON from the browser and build the image on the frontend.
 - View setup
   - A single image from the gallery collection, along with the extra information listed below, is displayed on the page. The image files have been provided as part of this assignment.
   - Data for the single gallery image should be stored and accessed from a custom module, based on the javascript object provided with this assignment.
