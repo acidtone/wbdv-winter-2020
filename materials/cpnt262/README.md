@@ -2,15 +2,12 @@
 ## Assignments
 - [Assignment 1: Basic Express Website](assignments/assignment-1/README.md)
   - Due Friday, March 6 @ 8pm
-  - Weight: 20% of Node mark
+  - Weight: 30% of Node mark
 - [Assignment 2: Gallery Custom Module](assignments/assignment-2/README.md)
   - Due Monday, March 9 @ 8pm
-  - Weight: 20% of Node mark
+  - Weight: 30% of Node mark
 - [Assignment 3: Mongoose Gallery](assignments/assignment-3/README.md)
-  - Due Wednesday, March 11 @ 8pm
-  - Weight: 20% of Node mark
-- Final Project
-  - Due: Monday March 16 @ 8pm
+  - Due Monday, March 16 @ 8pm
   - Weight: 40% of Node mark
 
 ## Definitions
