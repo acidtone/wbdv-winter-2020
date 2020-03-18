@@ -1,4 +1,23 @@
 # WBDV Fast Track Winter 2020
+## Remote Access
+- [Slack](https://sait-wbdv.slack.com/)
+- Zoom - See Slack for meeting links
+
+## Remote Daily Routine
+8am:
+  - Open Lab Time (Tony logs into Slack)
+  - There may be a quick live stream (a.k.a. a stand-up) depending on the day's activities
+9:30am: 
+  - Zoom Lecture (1-2hrs)
+  - The meeting link will be posted in the `#wbdv-2020` Slack channel
+  - Morning attendance will be taken based on Zoom participation. If you're late, message Tony to make sure your attendance is recorded.
+2pm:
+  - Afternoon check-in
+  - Could be a lecture, guest speaker interview or just an informal summary of the day's activities
+  - Afternoon attendance will be taken based on Zoom participation. If you're late, message Tony to make sure your attendance is recorded.
+
+**This routine is subject to change as we figure out the remote thing**
+
 ## Schedule
 ### January 7: Orientation
 - Food
