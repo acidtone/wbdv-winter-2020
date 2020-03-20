@@ -91,7 +91,7 @@
 ### Week 11: Mar 16-20
 - [M-W] Things and Stuff
 - [R] [CPNT 200 Day 0: Remote Tools](materials/cpnt200/chapters/ch00/README.md)
-- [F] CPNT 200 Day 1: Content Management Systems
+- [F] [CPNT 200 Day 1: Content Management with Jekyll](materials/cpnt200/chapters/ch01/README.md)
 
 ### Week 12: Mar 23-27
 - [M] CPNT 200 Day 2

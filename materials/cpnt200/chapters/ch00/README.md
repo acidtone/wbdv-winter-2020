@@ -5,6 +5,11 @@
   - Opinion: [How to Get a Remote Job as a Junior Developer](https://www.youtube.com/watch?v=ePPYFpoFyKo)
   - Corona Rant: [Boomer CEO still forcing employees to come into the office](https://www.youtube.com/watch?v=-XynFY-0Udw)
 - [5 Remote Developer Mistakes](https://www.youtube.com/watch?v=LVSNV8ulrCg) by Sean Allen
+    1. Not taking full advantage
+    2. Lack of a schedule
+    3. Not enough communication
+    4. Stopping momentum
+    5. Not leaving the house
 
 ## The Gig Economy
 - Search: [Power Law Distribution](https://www.google.com/search?q=power+law+distribution)
@@ -12,6 +17,7 @@
   - Hints:
     - Search: [80/20 Rule](https://www.google.com/search?q=80%2F20+rule)
     - Video: [The Zipf Mystery](https://www.youtube.com/watch?v=fCn8zs912OE)
+- Don't forget a full-time job isn't the only way to survive as a developer. Always be on the look out for side gigs.
 
 ## Tool Time
 ### Slack
