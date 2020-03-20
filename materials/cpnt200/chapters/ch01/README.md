@@ -8,8 +8,19 @@ See [Winter 2020 Assignments](../../assignments/README.md)
 - CRUD of content
 - Hagrid and Hermoine
 - Ruby DevOps
+  - Ruby/Jekyll terms: see [Setup](https://jekyllrb.com/docs/step-by-step/01-setup/)
+    - Ruby
+    - Gem and RubyGem
+    - Gemfile
+    - Bundler/`bundle`
+  - Options for installing
+    - bare metal
+    - `rbv`: Ruby version manager
+    - docker
   - Questions to ask
-    - 
+    - How often do you use Ruby?
+    - Do you have multiple Ruby projects to maintain?
+    - Is your laptop close to death?
   - installation
     - Mac
     - Windows
