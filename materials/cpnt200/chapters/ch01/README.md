@@ -1,27 +1,36 @@
 # CPNT 200: Day 1 - Content Management with Jekyll
 ## Assignment 1
 See [Winter 2020 Assignments](../../assignments/README.md)
-## Live stream agenda
+## Morning Live Stream Agenda
 - Reminders for Tony
     1. Hit Record
     2. Turn on Chat
 - CRUD of content
 - Hagrid and Hermoine
-- DevOps
-  - Mac
-  - Windows
+- Ruby DevOps
+  - Questions to ask
+    - 
+  - installation
+    - Mac
+    - Windows
 - Live code: vanilla jekyll
   - [Jekyll Documentation](https://jekyllrb.com/docs/)
   - Basic jekyll structure
     - [Great Jekyll Summary](http://jekyllbootstrap.com/lessons/jekyll-introduction.html)
   - [YAML](https://yaml.org/)
-[break]
+
+[20 min break]
+
 - Live code: try a couple [Top 10](https://jekyll-themes.com/blog/top-jekyll-themes/) installs
   - pagination headaches
   - localization
   - skins
 
-### Top Queries
+### Afternoon Check-in
+- How far did we get installing Jekyll?
+- Anything else?
+
+### Top Queries of the Day
 - 
 
 ### Q&A
