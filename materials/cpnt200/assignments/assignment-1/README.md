@@ -7,7 +7,7 @@ Using the Jekyll framework, generate a static website that is either:
 
 - Your own portfolio site.
 - A hypothetical client site for a business owner of your choice.
-- A brochure-ware website for a law firm based on the content provided in `starter`.
+- A brochure-ware website for a law firm based on the content provided in [`starter`](starter).
 
 Use your own unique content where possible. Place holder content is permissible with proper attribution and integration into your project. 
 
