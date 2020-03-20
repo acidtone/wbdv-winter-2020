@@ -5,8 +5,6 @@ See [Winter 2020 Assignments](../../assignments/README.md)
 - Reminders for Tony
     1. Hit Record
     2. Turn on Chat
-- CRUD of content
-- Hagrid and Hermoine
 - Ruby DevOps
   - Ruby/Jekyll terms: see [Setup](https://jekyllrb.com/docs/step-by-step/01-setup/)
     - Ruby
@@ -24,6 +22,24 @@ See [Winter 2020 Assignments](../../assignments/README.md)
   - installation
     - Mac
     - Windows
+- CRUD of content
+- Hagrid and Hermoine
+  - Hagrid CRUD
+    - Creating and Retrieve: 
+      - Request comes in
+      - Hagrid will assemble index.html using views and db info
+      - Respond with finished HTML
+  - Hermoine CRUD
+    - Create:
+      - parse markdown of the site from file database
+      - create every possible static page of the site ONCE
+    - Retrieve: 
+      - finds index.html in the file system
+      - returns it.
+- differences between WP and Jekyll (there are lots more)
+  - database
+    - WP -> mysql
+    - Jekyll -> file database
 - Live code: vanilla jekyll
   - [Jekyll Documentation](https://jekyllrb.com/docs/)
   - Basic jekyll structure
@@ -39,6 +55,7 @@ See [Winter 2020 Assignments](../../assignments/README.md)
 
 ### Afternoon Check-in
 - How far did we get installing Jekyll?
+- Update from Kim/Karen meeting
 - Anything else?
 
 ### Top Queries of the Day
