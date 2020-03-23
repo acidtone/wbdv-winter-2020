@@ -1,6 +1,6 @@
 # Assignment 1: Jekyll
 ## Purpose
-This task helps you become more familiar with the fundamentals of static website generators. You will be creating/configuring a number of common blog/cms features such as pages, posts, dynamic navigation, items (using collections) and plugins. This site can be hosted on [GH Pages](https://pages.github.com/) or a static web host such as [Netlify](https://www.netlify.com/).
+This task helps you become more familiar with the fundamentals of static website generators. You will be creating/configuring a number of common blog/cms features such as pages, posts, dynamic navigation and items (using collections). This site can be hosted on [GH Pages](https://pages.github.com/) or a static web host such as [Netlify](https://www.netlify.com/).
 
 ## Directions
 Using the Jekyll framework, generate a static website that is either:
@@ -12,6 +12,8 @@ Using the Jekyll framework, generate a static website that is either:
 Use your own unique content where possible. Place holder content is permissible with proper attribution and integration into your project. 
 
 **Lorem ipsum text and Lorem Picsum placeholder images cannot be used for this assignment.** Adapt existing, openly licensed content for your design and use static images (can be remotely hosted) when practical.
+
+**You cannot use any installed or 3rd party themes for this project.** You may use auto-generated pages and directories that come with the `jekyll new` command (minus the theme).
 
 ## Deliverables and Rubric
 5 points will be given to each of the following deliverables:
