@@ -94,7 +94,7 @@
 - [F] [CPNT 200 Day 1: Content Management with Jekyll](materials/cpnt200/chapters/ch01/README.md)
 
 ### Week 12: Mar 23-27
-- [M] CPNT 200 Day 2
+- [M] [CPNT 200 Day 2: Jekyll from Scratch](materials/cpnt200/chapters/ch02/README.md)
 - [T] CPNT 200 Day 3
 - [W] CPNT 200 Day 4
 - [R] CPNT 200 Day 5
