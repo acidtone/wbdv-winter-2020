@@ -48,6 +48,14 @@ data
 # Optional npm cache directory
 .npm
 
+# Jekyll/Bundler
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+
 # Optional REPL history
 .node_repl_history
 
