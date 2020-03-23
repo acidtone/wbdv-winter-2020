@@ -1,10 +1,12 @@
 # CPNT 200: Day 1 - Content Management with Jekyll
 ## Assignment 1
 See [Winter 2020 Assignments](../../assignments/README.md)
+
 ## Morning Live Stream Agenda
 - Reminders for Tony
     1. Hit Record
     2. Turn on Chat
+    3. Put on mic
 - Ruby DevOps
   - Ruby/Jekyll terms: see [Setup](https://jekyllrb.com/docs/step-by-step/01-setup/)
     - Ruby
@@ -56,10 +58,8 @@ See [Winter 2020 Assignments](../../assignments/README.md)
 ### Afternoon Check-in
 - How far did we get installing Jekyll?
 - Update from Kim/Karen meeting
+- Overview of minimal mistakes theme
 - Anything else?
-
-### Top Queries of the Day
-- 
 
 ### Q&A
 - Q:

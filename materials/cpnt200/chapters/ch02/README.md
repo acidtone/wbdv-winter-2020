@@ -28,7 +28,7 @@
 - [FAQ: Working with Github Pages](https://help.github.com/en/github/working-with-github-pages)
 
 ## Jekyll Deep Dive
-- See: [Day 1 README] for basic tutorials and reference links
+- See: [Day 1 README](../ch01/README.md) for basic tutorials and reference links
 - [Command Line Usage](https://jekyllrb.com/docs/usage/)
 - [Configuration](https://jekyllrb.com/docs/configuration/)
 - [Resources](https://jekyllrb.com/resources/)
