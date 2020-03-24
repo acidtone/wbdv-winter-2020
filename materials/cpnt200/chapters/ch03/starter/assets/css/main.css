@@ -24,27 +24,36 @@
   margin: auto;
 }
 
+/**********/
+/* Global */
+/**********/
+
+body {
+  background-color: #eee;
+}
+
 .wrapper {
   padding: 2em;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  background: white;
+  min-height: 100vh;
 }
 
 /**************/
 /* Navigation */
 /**************/
 
-nav {
-  margin-bottom: 3em;
-}
 
 nav ul.horz {
   display: flex;
   justify-content: center;
+  margin: 0;
 }
 
 nav li a {
   padding: 1em;
   border: 1px solid black;
-  border-radius: .75em;
 }
 
 nav a.current {
