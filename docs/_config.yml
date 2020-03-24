@@ -1,5 +1,5 @@
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/wbdv-winter-2020" # the subpath of your site, e.g. /blog
+baseurl: "/wbdv-winter-2020/" # the subpath of your site, e.g. /blog
 title: "SAIT Web Developer Fast Track - Winter 2020" # the name of your site, e.g. ACME Corp.
 collections:
   - characters
