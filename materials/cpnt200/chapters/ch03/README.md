@@ -44,6 +44,10 @@
     - list: `GET /users`
     - item: `GET /users/:id`
 
+## Afternoon Check-in
+- Handling relative and absolute links
+- PHP/mySQL considerations
+
 ## Activity 1
 Try completing one of the live code options above. See `starter` directory in this repo for sample files.
 
