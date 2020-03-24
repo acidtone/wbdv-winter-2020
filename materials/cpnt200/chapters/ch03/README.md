@@ -31,7 +31,7 @@
     - CloudCannon Tutorials
       - [Introduction to data files](https://learn.cloudcannon.com/jekyll/introduction-to-data-files/)
       - [Simple Navigation](https://learn.cloudcannon.com/jekyll/simple-navigation/)
-    - Don't forget to vlaidate you YML: [search 'YAMLLint](https://www.google.com/search?q=yamllint)
+    - Don't forget to vlaidate you YML: [search 'YAMLLint'](https://www.google.com/search?q=yamllint)
 - [Information architecture best practices](https://ben.balter.com/jekyll-style-guide/information-architecture/) (source: [Opinionated style guide](https://ben.balter.com/jekyll-style-guide/))
 ### Live code poll: What should Tony code?
 - Posts list at `index.md` --> post page
