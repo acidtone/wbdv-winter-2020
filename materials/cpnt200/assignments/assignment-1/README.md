@@ -30,7 +30,7 @@ Your code should be valid, well formatted/organized and easy for your instructor
 
 ### 3. Page Structure
 - at least 4 examples of static pages (about, contact, etc)
-- create three or more _layouts for different page structures (two of these will usually be created for you by the theme). 
+- create three or more _layouts for different page structures (common choices are default, home and post). 
 - must use includes for repeating page elements such as header and footer
 
 ### 4. Navigation
@@ -43,7 +43,7 @@ Your code should be valid, well formatted/organized and easy for your instructor
 ### 5. Posts
 - See instructions for post content expectations.
 - 5 posts of non-lorem text (can be adapted from openly licensed content). 
-- Create a Posts page that lists summaries of each post (pagination not required). Each post should contain a link to the full post (see below).
+- Create a Posts page that lists excerpts of each post (pagination not required). Each post should contain a link to the full post (see below).
 - Create a single post page for displaying a single (you guessed it) post in its entirety.
 - Posts should have valid Jekyll filenames with publish dates.
 

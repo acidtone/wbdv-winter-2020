@@ -1,0 +1,73 @@
+/*************/
+/* Utilities */
+/*************/
+
+/* Centre a single element vertically and horizontally on a page */
+.center-child {
+  min-height: 100vh;
+  display: flex;
+}
+.center-child > * {
+  margin: auto;
+}
+
+/* Centre content horizontally within a container */
+.center-inside {
+  text-align: center;
+}
+.center-outside {
+  margin: auto;
+}
+/* limit the line length of a text box */
+.text-box {
+  max-width: 80ch;
+  margin: auto;
+}
+
+.wrapper {
+  padding: 2em;
+}
+
+/**************/
+/* Navigation */
+/**************/
+
+nav {
+  margin-bottom: 3em;
+}
+
+nav ul.horz {
+  display: flex;
+  justify-content: center;
+}
+
+nav li a {
+  padding: 1em;
+  border: 1px solid black;
+  border-radius: .75em;
+}
+
+nav a.current {
+  background-color: #eee;
+}
+
+/***************/
+/* Definitions */
+/***************/
+
+dl {
+  font-size: 1.2rem;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  margin-bottom: 1em;
+}
+
+.center-child > article {
+  font-size: 3em;
+  max-width: 30ch;
+}

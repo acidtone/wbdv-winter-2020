@@ -1,0 +1,13 @@
+/* Reset */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+nav ul {
+  list-style: none;
+  padding-left: 0;
+}
