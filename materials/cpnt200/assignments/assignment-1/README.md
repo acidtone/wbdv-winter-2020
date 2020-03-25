@@ -36,7 +36,6 @@ Your code should be valid, well formatted/organized and easy for your instructor
 ### 4. Navigation
 - Defined as _data
 - Required fields
-  - title: for link title attribute (or page title, perhaps?)
   - label: link text
   - link: link href
 

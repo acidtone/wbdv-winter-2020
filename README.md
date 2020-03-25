@@ -96,7 +96,7 @@
 ### Week 12: Mar 23-27
 - [M] [CPNT 200 Day 2: Jekyll from Scratch](materials/cpnt200/chapters/ch02/README.md)
 - [T] [CPNT 200 Day 3: Posts, Data and Collections](materials/cpnt200/chapters/ch03/README.md)
-- [W] [CPNT 200 Day 4](materials/cpnt200/chapters/ch04/README.md)
+- [W] [CPNT 200 Day 4: Installing Wordpress](materials/cpnt200/chapters/ch04/README.md)
 - [R] CPNT 200 Day 5
 - [F] CPNT 200 Day 6
 
