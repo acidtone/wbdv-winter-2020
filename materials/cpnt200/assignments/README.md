@@ -3,6 +3,6 @@
 - Due: Thursday March 26 @ 8pm
 - Weight: 50% of Final Mark
 
-## Assignment 2: WordPress (in progress)
-- Due: Sunday March 29 @ 8pm
+## [Assignment 2: WordPress](assignment-2/README.md)
+- Due: Monday March 30 @ 8pm
 - Weight: 50% of Final Mark
