@@ -1,0 +1,39 @@
+body {
+  background-color: #eee;
+}
+
+body > .wrapper {
+  max-width: 95ch;
+  margin: 0 auto;
+  background-color: white;
+}
+
+nav .horz {
+  display: flex;
+}
+
+nav .horz > * {
+  flex: auto;
+}
+
+nav a {
+  display: block;
+  text-decoration: none;
+  color: black;
+  border: 1px solid black;
+  padding: 1em;
+  text-align: center;
+  background-color: white;
+}
+
+nav a:hover {
+  background-color: MediumAquamarine;
+}
+
+header, footer, aside {
+  text-align: center;
+}
+
+main {
+  padding: 0 2em;
+}
