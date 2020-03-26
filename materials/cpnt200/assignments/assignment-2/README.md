@@ -1,23 +1,16 @@
-# Assignment 2: Wordpress Child Theme Website
+# Assignment 2: Wordpress Simple Parent Theme
 ## Purpose
 This task helps you become familiar with the fundamentals of WordPress by creating pages, posts, a menu, a user, and adding themes and plugins.
 
-## Requirements
-This is a child-theme assignment. Please choose a simple theme to extend into a child theme. Change the presentation and behaviour of this theme using the following methods:
-1. Override two or more of the parent theme's templates (or template partials).
-2. Inject a custom stylesheet(s) into the theme (don't use the default `style.css` file when you extended the parent theme) and override the presentation to suit your needs.
-
-Important: 
-- It should be obvious that the child theme has been changed from the parent theme. Try different layouts, images, colour, fonts, etc. You may also extend one of your own themes.
-- Comment the code of your template and CSS overrides so your instructor knows how you've extended the theme. Otherwise, if the changes aren't obvious, you may not receive marks for the work.
-
 ## Directions
-In your WordPress instance, create an elegant user design and user experience for the CG Law LLP firm. They are looking for a 3-page Wordpress website that they can edit themselves:
+In your WordPress instance, create an elegant user design and user experience for the CG Law LLP firm. You have decided to build a custom parent based on the Underscore starter theme.
+
+They are looking for a 3-page Wordpress website that they can edit themselves:
 - Create a Post for each of the 3 lawyers, using `lawyer-text.txt` for content:
   - Create a Category called ‘Lawyers';
   - Assign the ‘Lawyers' category to each lawyer post;
   - Do NOT allow comments on the Lawyer Posts;
-  - Upload 3, openly licensed images for the lawyers to the Media section and display them with their bios.
+  - Upload 3, openly licensed images for the lawyer profile pictures to the Media section and display them with their bios.
 - Create a Post for each of the 3 practice areas, using `practice-areas.txt` for content:
   - Create a Category called 'Practice Areas';
   - Assign the 'Practice Areas' Category to each Practice Area Post;
@@ -25,9 +18,12 @@ In your WordPress instance, create an elegant user design and user experience fo
 - Create 3 Pages:
   - Home Page
     - List the Posts added to the Practice Areas Category
+    - Post navigation should be removed (either from the template or using CSS)
     - Display a hero image (which should be stored in the Media section) that is different than the parent theme
   - About Our Firm
     - List the Posts added to the Lawyer Category
+    - Post navigation should be removed (either from the template or using CSS)
+    - Create a custom Page template for this content. Maybe display these posts in a grid?
   - Contact Us 
     - Integrate a Contact Form using Contact Form 7
     - Embed an interactive Google Map (not just an image) displaying the fake address for the law firm (see plugin instructions below).
@@ -49,15 +45,12 @@ Your code should be valid, well formatted/organized and easy for your instructor
 The Lawyer and Practice Areas content has been implemented according to the instructions.
 
 ### 3. Page Setup
-The Home, About and Contact content has been implemented according to the instructions.
+The Home, About and Contact content has been implemented according to the instructions. The primary navigation works as expected.
 
-### 4. Template Setup
-Two or more parent templates have been overridden and the visual effect is noticeably different than the parent theme behavior.
+### 4. Stylesheet Injection
+External stylesheets have been successfully added to the site to enhance the presentation of the website. The design can be minimal but adherence to basic UX principles is expected.
 
-### 5. Stylesheet Injection
-External stylesheets have been successfully added to the site the visual effect of the CSS is noticeably different than the parent theme behavior.
-
-### 6. Plugin Setup
+### 5. Plugin Setup
 The contact form, SEO and Google Map plugins have been implemented according to the instructions.
 
 ## Submission Instructions
