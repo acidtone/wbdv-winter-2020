@@ -5,9 +5,6 @@
     2. Turn on Chat
     3. Put on mic
 
-## Announcements
-https://events.hashicorp.com/workshops
-
 ## Morning Live Stream Agenda
 - Reminders for Tony
     1. Hit Record

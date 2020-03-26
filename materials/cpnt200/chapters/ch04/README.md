@@ -7,7 +7,6 @@
 
 ### Troubleshooting LAMP stack installation
 
-
 ### Manual Wordpress installation step-by-step
 Assumption: You have installed PHP, MySQL and phpMyAdmin
 1. Download and Expand the latest WP Zip. (search: [`Wordpress download`](https://www.google.com/search?q=wordpress+download))
