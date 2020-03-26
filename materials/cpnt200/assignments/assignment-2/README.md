@@ -13,12 +13,12 @@ Important:
 
 ## Directions
 In your WordPress instance, create an elegant user design and user experience for the CG Law LLP firm. They are looking for a 3-page Wordpress website that they can edit themselves:
-- Create a Post for each of the 3 lawyers, using `LawyerText.txt` for content:
+- Create a Post for each of the 3 lawyers, using `lawyer-text.txt` for content:
   - Create a Category called ‘Lawyers';
   - Assign the ‘Lawyers' category to each lawyer post;
   - Do NOT allow comments on the Lawyer Posts;
   - Upload 3, openly licensed images for the lawyers to the Media section and display them with their bios.
-- Create a Post for each of the 3 practice areas, using `PracticeAreas.txt` for content:
+- Create a Post for each of the 3 practice areas, using `practice-areas.txt` for content:
   - Create a Category called 'Practice Areas';
   - Assign the 'Practice Areas' Category to each Practice Area Post;
   - Do NOT allow comments on these Posts.
@@ -35,6 +35,7 @@ In your WordPress instance, create an elegant user design and user experience fo
   - that lists the above Pages;
   - denotes the current page the user is on.
 - Install WordPress plugins that perform the following features:
+  - Contact Form 7
   - Search engine optimization
   - Embedded Google Map
 
