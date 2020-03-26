@@ -5,18 +5,14 @@
     2. Turn on Chat
     3. Put on mic
 
-## Morning Live Stream Agenda
-- Reminders for Tony
-    1. Hit Record
-    2. Turn on Chat
-    3. Put on mic
-
 ### Relevant Docs
 - [Theme Handbook](https://developer.wordpress.org/themes/)
   - [Theme Basics](https://developer.wordpress.org/themes/basics/)
   - [Post Types](https://developer.wordpress.org/themes/basics/post-types/)
   - [Ogranizing Theme Files](https://developer.wordpress.org/themes/basics/organizing-theme-files/)
   - [Template Hierarchy](https://developer.wordpress.org/themes/basics/template-hierarchy/)
+  - [Template Tags](https://developer.wordpress.org/themes/basics/template-tags/)
+    - [Complete List of Template Tags](https://developer.wordpress.org/themes/references/list-of-template-tags/)
   - [The Loop](https://developer.wordpress.org/themes/basics/the-loop/)
 
 ### CRUD Content Strategy: Questions to ask
@@ -82,3 +78,9 @@ Activate the Underscores theme (included in `starter` files). Answer the followi
 2. What template could you insert to override this behaviour?
 
 Feel free to edit and delete this theme. You can always [make another](https://underscores.me/).
+
+## Afternoon Check-in
+- Assignment 2 version 2
+- Missing Docs added
+- Naked Theme --> #side-projects Slack Channel
+- Upcoming special guests
