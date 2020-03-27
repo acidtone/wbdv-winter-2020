@@ -40,7 +40,7 @@
     - Codex: [Page Templates](https://developer.wordpress.org/themes/template-files-section/page-template-files/)
     - Codex: [Custom Templates](https://developer.wordpress.org/themes/template-files-section/page-template-files/#creating-a-custom-page-template-for-one-specific-page)
     - Codex: [Template Partials](https://developer.wordpress.org/themes/template-files-section/partial-and-miscellaneous-template-files/#content-slug-php)
-    - Note: Template pages override custom pages
+    - Note: Page Templates override `page-{slug}.php` and `page-{id}.php`
 - Not a lot of options:
   - limited settings;
   - no scheduling.
