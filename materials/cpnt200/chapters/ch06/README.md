@@ -43,3 +43,9 @@ Deployment is a requirement for Assignment 2
 3. Follow the instructions provided by the host for migrating your site. This differs depending on server setup. Older sites ask you to FTP while managed hosts often prefer deploying by git repo.
 
 Try to get a Hello World site up now so you have the process ironed out by the time you submit the assignment.
+
+## Activity 1: Enqueue Script
+Follow the direction in [Including CSS & JavaScript](https://developer.wordpress.org/themes/basics/including-css-javascript/) like we did for enqueuing CSS stylesheets. Not the difference in the functions that are used.
+
+## Activity 2: Deploy your website!
+Using the host you've chosen, deploy a test website to make it live.
