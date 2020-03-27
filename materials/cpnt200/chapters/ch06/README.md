@@ -1,4 +1,4 @@
-# CPNT 200 Chapter 5 - Theme Anatomy
+# CPNT 200 Chapter 6 - Enqueuing and Deployment
 ## Morning Live Stream Agenda
 - Reminders for Tony
     1. Hit Record
@@ -12,13 +12,17 @@
   - [Including CSS & JavaScript](https://developer.wordpress.org/themes/basics/including-css-javascript/)
   - [Conditional Tags](https://developer.wordpress.org/themes/basics/conditional-tags/)
   - [Categories, Tags & Custom Taxonomies](https://developer.wordpress.org/themes/basics/categories-tags-custom-taxonomies/)
+- [Template Files](https://developer.wordpress.org/themes/template-files-section/)
+  - [Post Template Files](https://developer.wordpress.org/themes/template-files-section/post-template-files/)
+  - [Page Templates](https://developer.wordpress.org/themes/template-files-section/page-template-files/)
+- Article: [Create Custom Page Templates](https://www.smashingmagazine.com/2015/06/wordpress-custom-page-templates/)
 
 ### Basic Theme CSS
 - creating a minimal theme from static html
 - it works, but relative links require a wp function to operate
   - `get_template_directory_uri()`.'/css/path/here.css'
 
-### Enqueue CSS and Scripts
+### Live code: Enqueue CSS and Scripts
 - Adding external css and js to your theme
 - Linking to external styles and scripts the "right" way
 - Use add_action to add your hook function
@@ -26,6 +30,9 @@
 - Create your hook function to create link and script tags
   - styles: `wp_enqueue_style('blendmode-styles',paht-to-css,false);`
   - scripts: `wp_enqueue_script('blendmode-scripts',path-to-js, false);`
+
+### Live code: Custom Page Templates
+See: [Create Custom Page Templates](https://www.smashingmagazine.com/2015/06/wordpress-custom-page-templates/)
 
 ### Deployment!
 Deployment is a requirement for Assignment 2
