@@ -3,7 +3,7 @@
 This task helps you become familiar with the fundamentals of WordPress by creating pages, posts, a menu, a user, and adding themes and plugins.
 
 ## Directions
-In your WordPress instance, create an elegant user design and user experience for the CG Law LLP firm. You have decided to build a custom parent based on the Underscore starter theme.
+In your WordPress instance, create an elegant user design and user experience for the CG Law LLP firm. 
 
 They are looking for a 3-page Wordpress website that they can edit themselves:
 - Create a Post for each of the 3 lawyers, using `lawyer-text.txt` for content:
@@ -26,14 +26,23 @@ They are looking for a 3-page Wordpress website that they can edit themselves:
     - Create a custom Page template for this content. Maybe display these posts in a grid?
   - Contact Us 
     - Integrate a Contact Form using Contact Form 7
-    - Embed an interactive Google Map (not just an image) displaying the fake address for the law firm (see plugin instructions below).
+    - Embed an interactive map (Google, OpenLayers, Leaflet, etc) displaying the fake address for the law firm (see plugin instructions below).
 - Create a global navigation menu:
   - that lists the above Pages;
   - denotes the current page the user is on.
 - Install WordPress plugins that perform the following features:
   - Contact Form 7
   - Search engine optimization
-  - Embedded Google Map
+  - Embedded Map (if required/recommended/convenient)
+
+## Requirements
+- You may not use any pre-built themes (exception below).
+- You may use code examples from the following sources without attribution:
+  - Underscores starter WP theme;
+  - Wordpress Codex;
+  - Code provided as course material.
+- You may adapt code from other sources but you must document and attribute code that is not yours.
+- Final website must be deployed to a live server (see Submission Requirements below).
 
 ## Deliverables and Rubric
 5 points will be given to each of the following deliverables:
