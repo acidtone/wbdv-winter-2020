@@ -64,6 +64,9 @@ The contact form, SEO and Google Map plugins have been implemented according to 
 
 ## Submission Instructions
 Upload the following project files to Brightspace
+- Create an admin account in the WP Admin panel:
+  - username: instructor
+  - password: password
 - Zipped wordpress files
 - phpMyAdmin database export
 and submit your repo and deployed website urls as a comment.
