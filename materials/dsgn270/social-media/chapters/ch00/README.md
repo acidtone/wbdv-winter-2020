@@ -1,4 +1,7 @@
 # DSGN 270 Chapter 0: Social Networking Theory
+## Housekeeping
+- [Social Media Assignment breakdown](../../assignments/README.md)
+
 ## Relevant Resources
 - [Most Popular Social Networks 2003-2019](https://youtu.be/aOymOiQdNaE)
 - [UK Social Media Statistics 2019](https://youtu.be/lEzRHa5hQFA)
@@ -28,9 +31,11 @@ Dunbar's number is a suggested cognitive limit to the number of people with whom
 This concept is often called the Monkey Sphere (first referenced by David Wong, editor of cracked.com). [source](https://www.cracked.com/article_14990_what-monkeysphere.html)
 
 ### Social Network Analysis
-Social network analysis studies the human social patterns in a world where we have limited cognitive resources for maintain social ties. Studies show that a disproportionate amount of the connectivity. These "connectors" maintain many weak ties to a larger collection of tighter groups.
+Social network analysis studies the human social patterns in a world where we have limited cognitive resources for maintain social ties. Studies show that a few people account for a disproportionate amount of the connectivity. These "connectors" maintain many weak ties to a larger collection of tighter groups with stronger ties.
 
 This is the basis of the [Six Degrees of Separation](https://en.wikipedia.org/wiki/Six_degrees_of_separation)
+
+See: [Strong and Weak Ties: Why Your Weak Ties Matter](https://www.socialmediatoday.com/content/strong-and-weak-ties-why-your-weak-ties-matter).
 
 ![Summary of Graph Theory Terminolgy](assets/graph-theory.jpg)
 Figure 2: Graph Theory Clusters ([Source](https://sciences.ucf.edu/psychology/lighthalllab/dr-lighthall-contributes-to-new-systematic-review-of-graph-theory/))
