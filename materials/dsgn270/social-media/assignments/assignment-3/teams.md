@@ -1,24 +1,31 @@
 # Teams
-## Group 1
+## Group 1: Starlight Room
 - Emily
 - Jay
 - Kaje
 - Kim
 
-## Group 2
+## The Danger Boys: Construction
 - Akash
 - Chris
 - Javad
 - Richard
 
-## Group 3
+## Existential Bread: Calgary Zoo
 - Dhanush
 - Erica
 - Fareida
 - JR
 
-## Group 4
+## DAVAA: Analog Cafe
+- David Le
 - Aastha
 - Alex T
-- David Le
 - Vaidehi
+- Alex H
+
+## Group 5: NFP Animal Shelters
+- Deigan
+- Junnie
+- Mike
+- Simar
