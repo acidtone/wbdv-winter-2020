@@ -1,4 +1,4 @@
-# Social Media Chapter 1: Content, Addiction and Mass Collaboration
+# Social Media: Content, Addiction and Mass Collaboration
 ## Terminology
 - Community of practice: a group of people who share a craft or a profession.
 - Social capital: the effective functioning of social groups through 
@@ -39,12 +39,12 @@ But how do we filter unlimited information?
 
 ---
 ## Breakout: Group charters
-Break into the groups that were selected yesterday and create a group charter for Assignment 3 (group presentation):
-- Define the jobs needed to complete the project.
-- Have each team member commit to a fair share of the work. A group member can be responsible for more than one job.
-- As a team, record these commitments in a group charter and make it available to the group.
+1. Break into the groups that were selected yesterday and create a group charter for Assignment 3 (group presentation):
+    - Define the roles and responsibilities needed to complete the project.
+    - Have each team member commit to a fair share of the work. A group member can be responsible for more than one job.
+    - As a team, record these commitments in a group charter and make it available to the group.
 
-While you're at it, create a list of candidate businesses to focus your presentation on.
+2. Begin curating a list of candidate businesses to focus your presentation on.
 
 ---
 
