@@ -103,7 +103,7 @@
 ### Week 13: Mar 30 - Apr 3
 - [M] [DSGN 270 Day 4: Social Networking Theory](materials/dsgn270/social-media/chapters/ch00/README.md)
 - [T] [DSGN 270 Day 5: Content, Addiction and Collaboration](materials/dsgn270/social-media/chapters/ch01/README.md)
-- [W] DSGN 270 Day 6: The Business of Social Media
+- [W] [DSGN 270 Day 6: The Business of Social Media](materials/dsgn270/social-media/chapters/ch02/README.md)
 - [R] CPNT 265 Day 0
 - [F] CPNT 264 Day 4
 
