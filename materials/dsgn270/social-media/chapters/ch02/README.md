@@ -30,6 +30,9 @@ checkout process.
   - Avoids the constant production of content required for organic campaigns.
   - Allows Return on Investment to be empirically tracked, tested and optimized.
 
+## Breakout Session: Keyword terms
+Using one of the free keyword research tools above. Define possible target search terms that relate to the business segment you've selected for your presentation.
+
 ---
 ## Appendix
 ### Relevant Resources
