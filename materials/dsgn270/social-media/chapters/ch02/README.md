@@ -2,26 +2,26 @@
 ## Starting a Social Media Marketing Business
 Local SM/DM businesses that are doing it right:
 - [Jumping Elephant Digital Marketing](https://jumpingelephant.guru/): Sara Kirkpatrick's agency is a one-stop-shop for all digital marketing services.
-- [Inbound Law Marketing](https://www.inboundlawmarketing.com/): Calin Yablonski used to have an agecy similar to Sarah's but he has since "niched down" into digital services for law firms.
+- [Inbound Law Marketing](https://www.inboundlawmarketing.com/): Calin Yablonski used to have an agency similar to Sarah's but he has since "niched down" into digital services for law firms.
 
 ## Common Business Use Cases
 - **Building a permission-based email list**: Although email is not generally considered "social media", an opt-in email list is transferrable to multiple platforms whereas follows, friends and connections are locked into individual social media platforms.
-- **Customer Support**: [Social Media Customer Service 101: The Beginner's Guide] (https://blog.hubspot.com/service/social-media-customer-service)
+- **Customer Support**: [Social Media Customer Service 101: The Beginner's Guide](https://blog.hubspot.com/service/social-media-customer-service)
 - **Education**: Closely related to communities of practice.
 - **Influence Marketing**: use of endorsements and product mentions from influencers (individuals who have a dedicated social following and are viewed as experts within their niche).
 - **Patreon (or similar) Promotion**: A popular revenue model with content producers relies on gift economics: quality content is produced free of charge but dedicated fans can support the producer with regular micro-payments starting at $1/month. Based on Kevin Kelly's [1000 True Fans](https://kk.org/thetechnium/1000-true-fans/) model.
 - **Direct Sales**: Social media is often the first step in an online sales funnel that ends in a cart 
 checkout process.
 - **Targeted Advertising**: Most platforms offer pay-per-click ads that can be targeted by location and information provided by their FBI agent.
-- **Brand Awareness**
+- **Brand Awareness**: A bit of a fuzzy term but has a big role in the social media campaigns of local businesses.
 
 ## Social Media Measurement Metrics
-See HootSuite's [19 Social Media Metrics That Really Matter—And How to Track Them](https://blog.hootsuite.com/social-media-metrics/)
+- Search: [AARRR (pirate) metrics](https://www.google.com/search?q=aarrr+metrics)
+- See HootSuite's [19 Social Media Metrics That Really Matter—And How to Track Them](https://blog.hootsuite.com/social-media-metrics/)
 
-## Targeting Users
-- Researching keyword search terms
-- User interest segments (often provided by the platform's FBI agents)
-- Geographic targeting of local businesses and consumers
+## Top Tools
+- Social network management: [6 Hootsuite Alternatives That You Should Explore in 2020](https://makeawebsitehub.com/hootsuite-alternatives/)
+- Keyword Research: [10 Free Keyword Research Tools](https://ahrefs.com/blog/free-keyword-research-tools))
 
 ## Organic vs Paid Campaigns
 - **Organic**: Using free tools provided by each social network to build a social community and interact with it, sharing posts and responding to customer comments.
