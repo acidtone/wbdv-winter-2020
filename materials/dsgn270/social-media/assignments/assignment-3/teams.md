@@ -24,7 +24,7 @@
 - Vaidehi
 - Alex H
 
-## Group 5: NFP Animal Shelters
+## The Looney Toons: NFP Animal Shelters
 - Deigan
 - Junnie
 - Mike
