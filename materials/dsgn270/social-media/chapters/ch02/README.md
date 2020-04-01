@@ -21,7 +21,7 @@ checkout process.
 
 ## Top Tools
 - Social network management: [6 Hootsuite Alternatives That You Should Explore in 2020](https://makeawebsitehub.com/hootsuite-alternatives/)
-- Keyword Research: [10 Free Keyword Research Tools](https://ahrefs.com/blog/free-keyword-research-tools))
+- Keyword Research: [10 Free Keyword Research Tools](https://ahrefs.com/blog/free-keyword-research-tools)
 
 ## Organic vs Paid Campaigns
 - **Organic**: Using free tools provided by each social network to build a social community and interact with it, sharing posts and responding to customer comments.
