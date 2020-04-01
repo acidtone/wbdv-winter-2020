@@ -26,7 +26,7 @@ checkout process.
 ## Organic vs Paid Campaigns
 - **Organic**: Using free tools provided by each social network to build a social community and interact with it, sharing posts and responding to customer comments.
   - Organic social media campaigns rely heavily on the production of content, whether it's a tweet, IG image or YouTube video. Who will provide and manage this content?
-- **Pay-per-Click**: The easy way into social media returns - pay for ads. Most platforms offer a pay-per-click model where you only pay when a prospect clicks on your ad. This is often an "easy sell" for clients that can afford it because PPC:
+- **Pay-per-Click**: The easy way into social media - buy your audience. Most platforms offer a pay-per-click model where you only pay when a prospect clicks on your ad. This is often an "easy sell" for clients that can afford it because PPC:
   - Avoids the constant production of content required for organic campaigns.
   - Allows Return on Investment to be empirically tracked, tested and optimized.
 
