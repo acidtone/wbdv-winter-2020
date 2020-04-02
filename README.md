@@ -104,7 +104,7 @@
 - [M] [DSGN 270 Day 4: Social Networking Theory](materials/dsgn270/social-media/chapters/ch00/README.md)
 - [T] [DSGN 270 Day 5: Content, Addiction and Collaboration](materials/dsgn270/social-media/chapters/ch01/README.md)
 - [W] [DSGN 270 Day 6: The Business of Social Media](materials/dsgn270/social-media/chapters/ch02/README.md)
-- [R] CPNT 265 Day 0
+- [R] [CPNT 265 Day 0: Introduction to E-commerce](materials/cpnt265/chapters/ch00/README.md)
 - [F] CPNT 264 Day 4
 
 ### Week 14: Apr 6-10
