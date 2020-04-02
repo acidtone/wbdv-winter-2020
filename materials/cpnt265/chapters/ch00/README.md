@@ -100,11 +100,13 @@ it. You must have:
 
 ---
 
-### Advertizing Site
+### Advertising Site
 - Content-heavy site that gets revenue from banners, sponsorships, ads, and other advertising methods.
 - Traffic to the site is the measure of its value.
 - Very few sites can be supported entirely through advertising dollars.
 - Google and Facebook use an advertising model
+
+---
 
 ### Online Store Ecosystem
 - Etsy, for example.
@@ -132,11 +134,11 @@ it. You must have:
 - Provides a news/editorial service to draw in customers
 - May be integrated with other models as a "value added" service 
 - May have advertising revenue
+- Could have a Patreon (or similar) component
 
 ---
 
 ## Implementing Your Website
-
 ### Ecommerce Details 
 - We've already covered designing websites, but lets talk about features needed for ecommerce
   - Domain Name 
@@ -172,11 +174,6 @@ it. You must have:
 - A business account at a financial institution that functions as a clearing account for credit card transactions.
 - Transfers money to business bank account
 - May involve physical credit-card readers (Point-of-Sale – POS) and/or online payment gateway
-
-Examples:
-- Mastercard 
-- Moneris Solutions
-- TD Canada Trust
 
 ### Online Merchant Account 
 Requires:
