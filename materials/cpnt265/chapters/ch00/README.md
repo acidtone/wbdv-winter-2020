@@ -6,6 +6,8 @@
 - Can involve complex chain of inventory control, warehouses, shipping, receiving, couriers, etc.
 - Or can be as simple as online payment and download of digital files.
 
+---
+
 ## E-commerce vs E-business
 - Ecommerce is the sales subset of Ebusiness
 - Ebusiness covers all aspects of using electronic systems to conduct business
@@ -21,6 +23,8 @@
 - Will it improve customer support, or get good publicity? Will it bring more customers or sales?
 - Does the site support business goals or hurt them?
 
+---
+
 ## Online Entrepreneur
 - New venture, strictly online
 - Doesn't need store-front locations and most infrastructure 
@@ -32,6 +36,8 @@
 - Will suppliers be up to the job?
 - Is product easy/economical to deliver?
 - How will we build it? What size site? What will it cost?
+
+---
 
 ## Advantages of Ecommerce
 - Market research indicates that it is needed Customers want it!
@@ -60,12 +66,16 @@ it. You must have:
 - Many websites combine several models.
 - Each of the 8 basic models has unique characteristics that distinguish it from the other models.
 
+---
+
 ### Brochureware Site
 - a marketing site that electronically aids in the buying and selling process
 - Sometimes provides additional information to support customers
 - online documentation software downloads FAQ
 - Generates revenue indirectly by creating awareness of the business' products and services
 - Transactions occur offline.
+
+---
 
 ### Online Store
 - A website where customers can buy products or services. Customers browse an online catalog
@@ -76,6 +86,8 @@ it. You must have:
   - Shipping notification
   - Capture customer information
 
+---
+
 ### Subscription Site
 - Targets a specific niche market that places a value on expert information, service, or a digital product delivered in a timely manner.
   - Technical newsletters
@@ -85,6 +97,8 @@ it. You must have:
   - Computer game downloads, etc. Removing ads
 - Selling for a monthly fee, an annual subscription, or a small per transation fee
 - An account login is important
+
+---
 
 ### Advertizing Site
 - Content-heavy site that gets revenue from banners, sponsorships, ads, and other advertising methods.
@@ -98,9 +112,13 @@ it. You must have:
 - Offers turnkey solutions for store creation, payment processing, and site management.
 - The platform handles the marketing and all the technical requirements
 
+---
+
 ### Business-to-Business
 - Built to serve other businesses
 - Selling directly to other businesses (wholesale operations) Integrating systems with vendors/suppliers for automated ordering
+
+---
 
 ### Auction Sites
 - Person offers an item for sale and potential buyers bid on the item.
@@ -108,10 +126,14 @@ it. You must have:
 - Can create your own auction site or use another to build a business
 - If you use an established auction site, they provide the site infrastructure, reputation tracking, notifications, etc.
 
+---
+
 ### Blogging
 - Provides a news/editorial service to draw in customers
 - May be integrated with other models as a "value added" service 
 - May have advertising revenue
+
+---
 
 ## Implementing Your Website
 
