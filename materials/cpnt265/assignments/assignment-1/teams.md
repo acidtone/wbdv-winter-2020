@@ -1,32 +1,32 @@
-# Group 1
-- Javad
-- Fareida
-- Chris
-- Simar
-
-# Group 2
-- Erica
-- Deigan
-- Jay
-
-# Group 3
-- Kaje
-- JR
-- Richard
-
-# Group 4
+# 4 Fast 4 Furious
 - Vaidehi
 - Dhanush
 - Aastha
 - Junnie
 
-# Group 5
-- Akash
-- David
-- Alex T
+# Indigo Children
+- Erica
+- Deigan
+- Jay
 
-# Group 6
+# KEMA Group
 - Kim
 - Emily
 - Mike
 - Alex H
+
+# Mental Thunder Werewolves
+- Javad
+- Fareida
+- Chris
+- Simar
+
+# Phone Shreks
+- Kaje
+- JR
+- Richard
+
+# Red Ranger
+- Akash
+- David
+- Alex T
