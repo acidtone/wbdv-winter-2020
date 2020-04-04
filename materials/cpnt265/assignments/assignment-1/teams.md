@@ -9,19 +9,13 @@
 - Deigan
 - Jay
 
-# KEMA Group
-- Kim
-- Emily
-- Mike
-- Alex H
-
 # Mental Thunder Werewolves
 - Javad
 - Fareida
 - Chris
 - Simar
 
-# Phone Shreks
+# Bönor City Boys
 - Kaje
 - JR
 - Richard
@@ -30,3 +24,9 @@
 - Akash
 - David
 - Alex T
+
+# SKEMA
+- Kim
+- Emily
+- Mike
+- Alex H
