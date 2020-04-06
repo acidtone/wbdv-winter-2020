@@ -42,22 +42,25 @@ The following is a list of things to consider when determining what type of E-Co
 - Promotional Plan
 - User Documentation
 
-## Marking Rubric
-1. 10 points - Design, Imagery and Layout
-    - Typography
-    - Visual Hierarchy
-    - Colour
-    - Whitespace
-    - Imagery, logos, icons, etc
-2. 10 points - Content, defined by category above
-4.  5 points - Technical Accuracy
-3.  5 points - Grammar and Brevity
-
 ## Submission
-This assignment will be handed as supporting documentation for your Assignment 2 presentation.
+This assignment will be handed in via Brightspace as supporting documentation for your Assignment 2 presentation. 
 - The format of this documentation is up to the group. Keep the technical level of the target client in mind.
 - Examples for supporting documentation:
   - PDF
   - Slide deck (not good enough by itself)
   - Companion mini-site
   - Other formats at instructor's discretion
+
+## Marking Rubric
+### 10 points - Group Evaluation
+### 10 points - Design, Imagery and Layout
+    - Typography
+    - Visual Hierarchy
+    - Colour
+    - Whitespace
+    - Imagery, logos, icons, etc
+### 10 points - Content, defined by category above
+    - Message is clear
+    - Grammar and brevity
+### 5 points - Technical Accuracy
+    - If a client asked for a feature your platform doesn't support, provide options or rational.
