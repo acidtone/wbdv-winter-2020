@@ -108,8 +108,8 @@
 - [F] CPNT 264 Day 4
 
 ### Week 14: Apr 6-10
-- [M] CPNT 265 Day 1
-- [T] CPNT 265 Day 2
+- [M] [CPNT 265 Day 1](materials/cpnt265/chapters/ch01/README.md)
+- [T] [CPNT 265 Day 2](materials/cpnt265/chapters/ch02/README.md)
 - [W] CPNT 265 Day 3
 - [R] CPNT 264 Day 5
 - [F] Good Friday
