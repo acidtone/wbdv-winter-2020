@@ -20,7 +20,6 @@ Assign the key roles and responsibilities for each group member in delivering th
 ## Requirements
 - Select a small business that can be your client for the exercise. It could be an actual business, or your team could decide to define an entrepreneurial venture to sell products or services online.
 - Research the models and options available for designing, developing and hosting the application. 
-- Put together a short slide presentation (about 10 to 15 minutes) to discuss the vision for the E- Commerce site and how it will enhance the business.
 - Ensure that each team member participates in the preparation of the presentation and that each person has an equal part in the presentation itself. One of the goals of this exercise is to give you an opportunity to practice delivering a presentation in front of an audience.
 
 The following is a list of things to consider when determining what type of E-Commerce site would be best for your chosen company. Please discuss each of these items during your presentation.
@@ -33,3 +32,32 @@ The following is a list of things to consider when determining what type of E-Co
 - Will you use a hosting service or self-host? Does the company have the infrastructure for this, or do you have to build it?
 - What other issues can your team identify?
 
+## Expected Categories
+- Project Overview Goals
+- Target Audience
+- Delivery Requirements
+- Site Content
+- Visual Design 
+- Budget 
+- Promotional Plan
+- User Documentation
+
+## Marking Rubric
+1. 10 points - Design, Imagery and Layout
+    - Typography
+    - Visual Hierarchy
+    - Colour
+    - Whitespace
+    - Imagery, logos, icons, etc
+2. 10 points - Content, defined by category above
+4.  5 points - Technical Accuracy
+3.  5 points - Grammar and Brevity
+
+## Submission
+This assignment will be handed as supporting documentation for your Assignment 2 presentation.
+- The format of this documentation is up to the group. Keep the technical level of the target client in mind.
+- Examples for supporting documentation:
+  - PDF
+  - Slide deck (not good enough by itself)
+  - Companion mini-site
+  - Other formats at instructor's discretion
