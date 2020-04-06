@@ -17,20 +17,22 @@ business
 - Customs fees and duties are involved
   - Need to decide how to pass these to consumer
 
-## Tradmark
-Trademark infringements are common
-- Microsoft vs. MikeRoweSoft was a legal dispute between Microsoft and a Canadian Grade 12 student named Mike Rowe over the domain name "MikeRoweSoft.com". Microsoft argued that their tradement had been infringed because the words sound the same as Microsoft. A settlement was eventually reached, with Rowe granting ownership of the domain to Microsoft in exchange for an Xbox and additional compensation.
-
-Be careful. Things can go much worse than this.
-
 ## Copyright Issues
 Be aware of what issues your company might face. Here are some
 resources to help.
 - [Digital Millennium Copyright Act](https://www.dmca.com/) (DMCA) - US Copyright Law 
 - [Digital Rights Management](https://en.wikipedia.org/wiki/Digital_rights_management) (DRM) - Hardware and software protections to prevent copying
 - [Electronic Frontier Foundation](https://www.eff.org/) - Working to counteract excessive restrictions and controls
+- [Free Software Foundation](https://www.fsf.org/)
 - [Creative Commons](https://creativecommons.org/) - Open licencing for content creators
 - [Canadian Copyright Law](https://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/h_wr02281.html)
+
+## Trademark
+Trademark infringements are common
+- Microsoft vs. MikeRoweSoft was a legal dispute between Microsoft and a Canadian Grade 12 student named Mike Rowe over the domain name "MikeRoweSoft.com". Microsoft argued that their tradement had been infringed because the words sound the same as Microsoft. A settlement was eventually reached, with Rowe granting ownership of the domain to Microsoft in exchange for an Xbox and additional compensation.
+
+Be careful. Things can go much worse than this.
+
 
 ## Patents
 Patents protection inventions and software concepts.

@@ -10,7 +10,7 @@ Design, configure and deploy an online e-business site for the small business yo
 2. Be clear on the forms of payment you accept. Possibilities:
     - VISA/Mastercard (online merchant account),
     - Paypal, Stripe, Square, etc
-    - Patreon
+    - Patreon, Ebay, other escrow platform
 3. If available, set up the tax regions so that Alberta shoppers do not pay any provincial sales tax, but all Canadian shoppers pay the GST. For the United States and Mexico, there will be no sales tax added.
 4. Physical delivery, if applicable
   - Clean the demo products out of the installation. 
@@ -27,11 +27,29 @@ Design, configure and deploy an online e-business site for the small business yo
   - Ensure that customers can post product reviews.
   - Add any extra customizations that you feel are applicable.
 
+## Potential Non-Cart Options
+- Monthly Service (Uber for prescriptions)
+- Content creator --> Patreon
+
 ## Submission Requirements
 Submit a link your online platform with an admin login. Your instructor will mark your submission from the perspective of the potential client/investor.
 
 ## Marking Rubric
 ### 10 points: Group Evaluation
+One group evaluation will be submitted for both Assignment 1 and 2.
+
 ### 10 points: Presentation
+The group executed a professional presentation. 
+- Video and audio were high quality 
+- the speakers finished on time, were clear and concise
+- visual aids were included and support material was provided.
+
 ### 10 points: Content Parity with Proposal
+The presentation
+- compliments/adds value to the justification document (Assignment 1);
+- presents no conflicting or inaccurate information;
+- clarifies potential points of confusion or contention brought up by the justification document.
+
 ###  5 points: Admin Parity
+- The group provided a login for testing and evaluation.
+- The permissions and features available to the login supports the message contained in the presentation.
