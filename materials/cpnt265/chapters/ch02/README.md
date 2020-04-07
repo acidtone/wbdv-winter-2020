@@ -105,9 +105,9 @@ Think about your personal website. Answer these questions.
   - What are they missing?
 
 1. COLLECT AND ORGANIZE
-    - Set up a spreadsheet with a column for each competitor and also one for your client if they already have a website
+        - Set up a spreadsheet with a column for each competitor and also one for your client if they already have a website
 
-2. ANALYZE
+2. Analyze
     - Start with a high-level analysis:
         - **Strengths** - Characteristics of the website that give an advantage and help reach objectives.
             - What is this website really good at?

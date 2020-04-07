@@ -3,7 +3,7 @@
   - Do they own their own domain?
     - often the admin/tech/billing contact is registered to the personal email of a past employee. If they aren't responding to renewal reminders, the website and email attached to the domain can go down without warning
   - Who is the domain registrar?
-    - Is the conctact information displayed publicly or is it "cloaked" behind the registrar contact info?
+    - Is the contact information displayed publicly or is it "cloaked" behind the registrar contact info?
   - Who is hosting the DNS records (iow, where are the NS records pointing)?
     - if the registrar is hosting the DNS, then server uptime might be at risk if the web host moves servers around and changes your IP. The web host will send advance notice when this happens so make sure someone is resposible for those emails.
     - if the DNS is hosted by the web host, then web server IP changes are handled automatically by the host.
