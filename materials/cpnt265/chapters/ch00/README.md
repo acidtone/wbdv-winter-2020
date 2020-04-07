@@ -7,12 +7,6 @@
   - dropshipping
     - Wholesale Ted
       - [Create a Dropshipping Store with Shopify & Aliexpress (UPDATED Shopify Tutorial for 2019)](https://www.youtube.com/watch?v=Fsq6ohxLQX4)
-      - [10 Things To Do BEFORE You Start A Print On Demand Store... (Beginner Mistakes to AVOID)](https://www.youtube.com/watch?v=Y7jRSsr7qbQ)
-        - [120](https://youtu.be/Y7jRSsr7qbQ?t=120): Amazon Merch - darker shades (t-shirts) usually perform better with black being top selling colour
-        - [645](https://youtu.be/Y7jRSsr7qbQ?t=645): Placeit - lifestyle photo generator
-        - [750](https://youtu.be/Y7jRSsr7qbQ?t=750): Don't just opt for selling t-shirts
-        - [795](https://youtu.be/Y7jRSsr7qbQ?t=795): Principle of price anchoring
-        - [1095](https://youtu.be/Y7jRSsr7qbQ?t=1095): Principle of illusory superiority
     - Sebastian Ghiorghiu
       - [Dropshipping In 2019 - 2020 | Everything You Should Know](https://www.youtube.com/watch?v=7hpIRP8Nph8)
     - Justin Painter
@@ -20,6 +14,12 @@
   - print on demand
     - Shortcut: [T-shirt dropship breakdown](https://youtu.be/9vD7wkggBBs?t=174) by Joe Roberts
       - cost of FB ads: $10/sale (very anecdotal stat)
+    - [10 Things To Do BEFORE You Start A Print On Demand Store... (Beginner Mistakes to AVOID)](https://www.youtube.com/watch?v=Y7jRSsr7qbQ)
+      - [120](https://youtu.be/Y7jRSsr7qbQ?t=120): Amazon Merch - darker shades (t-shirts) usually perform better with black being top selling colour
+      - [645](https://youtu.be/Y7jRSsr7qbQ?t=645): Placeit - lifestyle photo generator
+      - [750](https://youtu.be/Y7jRSsr7qbQ?t=750): Don't just opt for selling t-shirts
+      - [795](https://youtu.be/Y7jRSsr7qbQ?t=795): Principle of price anchoring
+      - [1095](https://youtu.be/Y7jRSsr7qbQ?t=1095): Principle of illusory superiority
   - digital downloads
     - [SHOPIFY - How To Make $1,000 A DAY With Digital Products](https://www.youtube.com/watch?v=yiWQqHQ-KcM) Keder Cormier
       - [195](https://youtu.be/yiWQqHQ-KcM?t=195): Hire a designer (and get yourself out of the picture)
