@@ -115,10 +115,10 @@
 - [F] Good Friday
 
 ### Week 15: Apr 13-17
-- [M] Easter Monday
-- [T] CPNT 265 Day 4
-- [W] CPNT 265 Day 5
-- [R] CPNT 265 Day 5
+- [M] [CPNT 265 Day 5: Schema.org](materials/cpnt265/chapters/ch06/README.md)
+- [T] CPNT 265 Day 6: CSS Algorithms
+- [W] CPNT 265 Day 7: SVG
+- [R] CPNT 265 Day 8: Presentation Secrets of Steve Jobs?
 - [F] Final Presentations
 
 # Appendix
