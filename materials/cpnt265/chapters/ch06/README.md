@@ -1,10 +1,10 @@
 # Schema.org - How to structure your data for Google
 ## Relevant Resources
-- [Schema.org]()
-- Video: [How to use Schema.org to Create and Add Structured Data to Your Website](https://youtu.be/xQeRA-Ojq5c)
-  - Bookmarks below
+- [Schema.org](https://schema.org/)
 
 ## How to Use Schema.org
+Source: [How to use Schema.org to Create and Add Structured Data to Your Website](https://youtu.be/xQeRA-Ojq5c)
+
 1. [Determine your Schema type](https://youtu.be/xQeRA-Ojq5c?t=186)
     - Schema.org: [Getting Started](https://schema.org/docs/gs.html)
 2. [Map the elements](https://youtu.be/xQeRA-Ojq5c?t=365)
