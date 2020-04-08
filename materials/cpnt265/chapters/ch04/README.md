@@ -1,5 +1,7 @@
 # Add Your Site To Google Search Console
 ![Screen cap: search console](assets/search-console.png)
+## Relevant Resources
+- Article: [Google Search Console: Definitive Guide](https://backlinko.com/google-search-console)
 
 ## Add And Verify Your Site
 1. Go to https://search.google.com/search-console/welcome
@@ -207,20 +209,20 @@ campaigns
 - Can be customized 
 - API key required
 
-### JAVASCRIPT MAPS
+### Javascript Maps
 - Covers a wider range of map usage
 - Helps visualize data
 - Requires knowledge of HTML, CSS, and JavaScript 
 - API key is required
 
-### STATIC MAP MAKER
+### Static Map Maker
 For a static map, you can use tools like:
 - [Google Static Map Maker](https://staticmapmaker.com/google/)
 - [Google Maps APIs Styling Wizard](https://mapstyle.withgoogle.com/)
 - Import styles from https://snazzymaps.com/
 211
 
-### Add A Social Bookmarking Widget
+## Add A Social Bookmarking Widget
 ![Screen cap: Social bookmarking](assets/social-bookmarking.png)
 Source: https://www.buzzfeed.com/lyapalater/how-is-this-pic-of-chris-evans-taking-a-selfie-with-his-dog
  
@@ -231,7 +233,7 @@ Source: https://www.buzzfeed.com/lyapalater/how-is-this-pic-of-chris-evans-takin
 4. Get the code to install
 
 ## Evaluate Your Website
-### WHAT DOES SUCCESS MEAN?
+### What Does Success Mean?
 - Increasing the number of visitors
 - More visitors signing up for your newsletter
 - Visitors staying on the site longer
