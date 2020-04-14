@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style>
+    :root {
+      --posX: 0;
+      --posY: 0;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      min-height: 100vh;
+      box-sizing: border-box;
+
+      background-image: radial-gradient(at var(--posX) var(--posY), rebeccapurple 10%,skyblue 20%);
+    }
+    
+    section {
+      border: 1px solid rebeccapurple;
+    }
+
+  </style>
+</head>
+<body>
+  <output></output>
+  <script>
+    document.addEventListener('mousemove', evt => {
+      const body = document.querySelector('body');
+      
+      body.style.setProperty("--posX",`${evt.clientX}px`);        
+      body.style.setProperty("--posY",`${evt.clientY}px`);        
+
+      let output = document.querySelector('output');
+      output.value = `X: ${evt.clientX}px
+                      Y: ${evt.clientY}px`;
+
+    });
+  </script>
+</body>
+</html>

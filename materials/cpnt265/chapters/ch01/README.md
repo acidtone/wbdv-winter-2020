@@ -1,4 +1,4 @@
-# Local and International Legal Issue
+# Local and International Legal Issues
 
 ## BUSINESS LICENSES
 - Businesses require standard business licenses

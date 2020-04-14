@@ -4,9 +4,9 @@
 - Weight: 35%
 
 ## [Assignment 2: E-business Proof-of-Concept](assignment-2/README.md) (Group Presentation)
-- Due: Thursday, April 9 @ 10am?
+- Due: Thursday, April 9 @ noon
 - Weight: 35%
 
-## Assignment 3: Deployed Portfolio Project(s)
-- Due: Friday, April 17 @ 8am
+## [Assignment 3: Deployed Portfolio Project(s)](assignment-3/README.md)
+- Due: Friday, April 17 @ 9am
 - Weight: 30%
