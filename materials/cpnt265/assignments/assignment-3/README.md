@@ -18,21 +18,21 @@ Submit a zip of your project to Brightspace with a link to your repository and a
 ### 30 points: Presentation
 Each of the following will be worth 10 points each:
 1. Stage presence
-  - Is it obvious you're reading from a script?
-  - Video on? Dressed for success?
-  - 
+    - Is it obvious you're reading from a script?
+    - Video on? Dressed for success?
+    - Have you kept the audience engaged?
 2. Content
-  - Was there an appropriate amount of content to fill 5 minutes? Too much? Too little?
-  - Is it obvious how you can be contacted?
-  - Is your code available for inspection?
+    - Was there an appropriate amount of content to fill 5 minutes? Too much? Too little?
+    - Is it obvious how you can be contacted?
+    - Is your code available for inspection?
 3. Visual Aids
-  - Live code session?
-  - Slides?
-  - Demos?
+    - Live code session?
+    - Slides?
+    - Demos?
 
 ### 10 points: Submit Project Code
 - Lots of comments, please. Give the reader an idea of 
-  - what your code is doing;
-  - what your thought process was while coding;
-  - what problem you're trying to solve;
-  - what still needs to be completed.
+    - what your code is doing;
+    - what your thought process was while coding;
+    - what problem you're trying to solve;
+    - what still needs to be completed.

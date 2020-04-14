@@ -118,7 +118,7 @@
 - [M] Easter Monday
 - [T] [CPNT 265 Day 5: CSS Variables](materials/cpnt265/chapters/ch05/README.md)
 - [W] CPNT 265 Day 6: SVG
-- [R] CPNT 265 Day 7: Presentation Prep
+- [R] CPNT 265 Day 7: Tony's Sample Presentation
 - [F] Final Presentations
 
 # Appendix
