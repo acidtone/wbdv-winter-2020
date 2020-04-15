@@ -9,6 +9,12 @@
     :root {
       --posX: 0;
       --posY: 0;
+      --ratio: 50%;
+      --hue: 0deg;
+
+      --body-bg: hsl(180, 100%, var(--ratio));
+
+      --ff-b: Arial, Helvetica, sans-serif;
     }
 
     body {
@@ -17,9 +23,19 @@
       min-height: 100vh;
       box-sizing: border-box;
 
-      background-image: radial-gradient(at var(--posX) var(--posY), rebeccapurple 10%,skyblue 20%);
+      font-family: var(--ff-b);
+
+      background-color: hsl(var(--hue), 100%, var(--ratio));
+      background-image: radial-gradient(at var(--posX) var(--posY), rebeccapurple 10%,transparent 20%);
     }
     
+    output {
+      position: absolute;
+      top: var(--posY);
+      left: var(--posX);
+      margin: 1em;
+    }
+
     section {
       border: 1px solid rebeccapurple;
     }
@@ -31,9 +47,14 @@
   <script>
     document.addEventListener('mousemove', evt => {
       const body = document.querySelector('body');
-      
+      let ratio = evt.clientY / innerHeight * 100;
+
       body.style.setProperty("--posX",`${evt.clientX}px`);        
       body.style.setProperty("--posY",`${evt.clientY}px`);        
+      body.style.setProperty("--ratio", `${Math.round(ratio)}%`);        
+      body.style.setProperty("--hue", `${Math.round(ratio * 360)}deg`);        
+
+      console.log(ratio);
 
       let output = document.querySelector('output');
       output.value = `X: ${evt.clientX}px

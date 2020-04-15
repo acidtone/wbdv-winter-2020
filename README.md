@@ -117,7 +117,7 @@
 ### Week 15: Apr 13-17
 - [M] Easter Monday
 - [T] [CPNT 265 Day 5: CSS Variables](materials/cpnt265/chapters/ch05/README.md)
-- [W] CPNT 265 Day 6: SVG
+- [W] [CPNT 265 Day 6: SVG](materials/cpnt265/chapters/ch06/README.md)
 - [R] CPNT 265 Day 7: Tony's Sample Presentation
 - [F] Final Presentations
 
