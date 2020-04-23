@@ -54,7 +54,8 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
-
+# for GH PAges
+Gemfile.lock
 
 # Optional REPL history
 .node_repl_history
