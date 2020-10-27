@@ -52,7 +52,7 @@ db.once('open', function() {
 /**********************/
 
 app.use('/api/v1/definitions', require('./routes/definitions'));
-app.use('api/v1/users', require('./routes/users'))
+app.use('/api/v1/users', require('./routes/users'))
 
 /**************/
 /* Catch 404s */

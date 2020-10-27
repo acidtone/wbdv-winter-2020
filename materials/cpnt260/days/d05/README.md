@@ -70,7 +70,7 @@ The class's Top 10
     - menu select
   - one or more of many
     - checkbox
-      - nameing your checkboxes `name[]` creates a list on the server side
+      - naming your checkboxes `name[]` creates a list on the server side
     - multi-select
 - special fields
   - file upload
